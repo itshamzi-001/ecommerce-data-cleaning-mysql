@@ -1,0 +1,1201 @@
+order_id,customer_name,email,order_date,product_name,category,quantity,price,city,payment_method,delivery_status,total_amount
+, Ahmed Khan ,.ahmed.khan.@yahoo.com,2024-11-23,Smart Watch,Electronics,1.0,0,,Cash,pendng,0.0
+1.0,hina qureshi,hina.qureshi@gmail.com,,Airpods Pro,Appliances,3.0,abc,Karachi,Bank Transfer,Cancelled,
+,Hassan Khan,hassan.khan@gmailcom,10-28-2023,Smart Watch,Electronics,,abc,Karachi,Card,Delivered,
+3.0,Hassan Mirza,hassan.mirza@hotmail.com,11-17-2024,Samsung Galaxy S22,Appliances,,65175,karacchi,cash ,Cancelled,
+,Hina Butt,hina.butt@gmail.com,02-02-2023,Bluetooth Speaker,Appliances,,83490,karacchi,cash ,,
+5.0,sara chaudhry,sara.chaudhry@gmial.com,,Airpods Pro,Appliances,-1.0,24831,Karachi,Card,,-24831.0
+6.0,BILAL ZAFAR,bilal.zafar@gmial.com,2024-07-20,Samsung Galaxy S22,Applinces,,90174,Multan,cash ,Pending,
+7.0,Ali Chaudhry,ali.chaudhry@gmial.com,10-02-2024,Microwave,Appliances,3.0,0,Lahore,CARD,Cancelled,0.0
+8.0,Ali Malik,ali.malik@hotmail.com,2023-09-04,Samsung Galaxy S22,Electronics,5.0,0,karacchi,CARD,Pending,0.0
+9.0, Hina Zafar ,.hina.zafar.@gmial.com,07/12/2024,Smart TV,,-1.0,abc,Karachi,Card,Pending,
+10.0, Ayesha Khan ,.ayesha.khan.,2024-12-25,HP Lpt0p,Electronics,3.0,135782,Multan,,delievered,407346.0
+11.0,Hina Raza,hina.raza@gmial.com,,HP Lpt0p,,-1.0,abc,karacchi,,Delivered,
+,Ahmed Khan,ahmed.khan@gmail.com,,MacBook Air,Accessories,4.0,abc,islmabad,Cash,Delivered,
+,Hina Khan,hina.khan@yahoo.com,,HP Laptop,Electronics,-1.0,abc,Multan,cash ,Cancelled,
+14.0,HINA MIRZA,hina.mirza@gmial.com,03-04-2023,iPh0ne 14 Pr0,eletronics,,42270,islmabad,Cash,Pending,
+15.0, Kashif Malik ,.kashif.malik.@gmail.com,06/08/2024,Smart Watch,Applinces,-1.0,0,Faisalabad,Bank Transfer,Pending,0.0
+,AYESHA BUTT,ayesha.butt@gmailcom,2023-03-16,Washing Machine,Applinces,1.0,141937,islmabad,Bank Transfer,Pending,141937.0
+17.0,AHMED BUTT,ahmed.butt@hotmail.com,2024-10-31,Microwave,,1.0,70328,Karachi,,pendng,70328.0
+18.0,Hassan Chaudhry,hassan.chaudhry@yahoo.com,,Smart TV,Electronics,,abc,Lahore,Cash,Cancelled,
+19.0,Hassan Raza,hassan.raza@gmailcom,2023-04-25,MacBook Air,Accessories,,abc,Islamabad,Cash,Cancelled,
+20.0, ALI SHEIKH ,.ali.sheikh.@gmial.com,21/02/2024,HP Laptop,Appliances,4.0,0,Faisalabad,cash ,,0.0
+,fatima chaudhry,fatima.chaudhry@gmail.com,16/08/2023,Washing Machine,Appliances,2.0,abc,Faisalabad,Bank Transfer,Delivered,
+22.0,ayesha saeed,ayesha.saeed@gmail.com,25/09/2023,Smart Watch,Accessories,1.0,abc,Faisalabad,cash ,pendng,
+, Ahmed Qureshi ,.ahmed.qureshi.@gmail.com,02/01/2023,Airpods Pro,,,0,Karachi,,Cancelled,
+,hassan qureshi,hassan.qureshi@yahoo.com,24/01/2024,Smart Watch,eletronics,5.0,abc,Sargodha,cash ,pendng,
+,Ayesha Mirza,ayesha.mirza@gmial.com,2023-06-23,Smart TV,,-1.0,25480,Multan,Card,Pending,-25480.0
+26.0,ALI KHAN,ali.khan@gmail.com,06/10/2024,Bluetooth Speaker,Appliances,,2453,lahor,Card,Pending,
+,HINA MIRZA,hina.mirza@gmailcom,04-20-2024,Washing Machine,,-1.0,abc,Islamabad,,delievered,
+28.0, Hassan Butt ,.hassan.butt.@gmial.com,09-02-2023,Wshing Mchine,Accessories,-1.0,abc,islmabad,Cash,Pending,
+29.0,Fatima Qureshi,fatima.qureshi@gmail.com,,Bluet00th Speker,eletronics,,0,lahor,cash ,Delivered,
+30.0,Hassan Qureshi,hassan.qureshi@gmailcom,13/07/2024,Washing Machine,eletronics,4.0,abc,lahor,,Pending,
+31.0,Sara Zafar,sara.zafar@gmial.com,2023-01-28,Bluet00th Speker,eletronics,2.0,abc,Faisalabad,Card,delievered,
+32.0,ayesha qureshi,ayesha.qureshi@gmail.com,2024-07-06,Airpods Pro,Electronics,1.0,65823,Lahore,CARD,Pending,65823.0
+33.0,Sara Mirza,sara.mirza@yahoo.com,09-20-2023,MacBook Air,,1.0,82536,,Cash,Cancelled,82536.0
+, Bilal Qureshi ,.bilal.qureshi.@gmial.com,04/10/2024,Samsung Galaxy S22,Accessories,5.0,149355,Faisalabad,CARD,delievered,746775.0
+,Ayesha Malik,ayesha.malik@gmailcom,,Airpods Pro,eletronics,-1.0,0,islmabad,,Cancelled,0.0
+,Hina Mirza,hina.mirza@gmial.com,2023-09-09,Smart TV,Appliances,,abc,Lahore,cash ,Cancelled,
+37.0, USMAN BUTT ,.usman.butt.@gmial.com,2023-10-10,Microwave,Electronics,,abc,islmabad,Card,,
+38.0, Usman Mirza ,.usman.mirza.@yahoo.com,09-07-2023,Smart Watch,Applinces,-1.0,0,islmabad,Bank Transfer,Cancelled,0.0
+,USMAN CHAUDHRY,usman.chaudhry@hotmail.com,02/07/2024,HP Laptop,eletronics,,0,Multan,Cash,Pending,
+40.0,FATIMA SHEIKH,fatima.sheikh,02-25-2023,MacBook Air,eletronics,1.0,abc,karacchi,cash ,Cancelled,
+41.0,Ali Chaudhry,ali.chaudhry@gmail.com,2023-03-17,McB00k Air,Applinces,3.0,66061,islmabad,cash ,pendng,198183.0
+,Kashif Butt,kashif.butt@gmailcom,,Smart TV,Electronics,,27013,Sargodha,Bank Transfer,,
+43.0, SARA BUTT ,.sara.butt.@gmailcom,04-26-2024,iPhone 14 Pro,,,120021,Sargodha,Bank Transfer,,
+, FATIMA QURESHI ,.fatima.qureshi.@hotmail.com,2023-03-15,MacBook Air,Applinces,-1.0,116121,karacchi,,Cancelled,-116121.0
+,Bilal Chaudhry,bilal.chaudhry@gmail.com,03-18-2024,Smart Watch,Electronics,,0,Multan,CARD,Delivered,
+46.0,Usman Saeed,usman.saeed@yahoo.com,,Samsung Galaxy S22,eletronics,-1.0,28420,Faisalabad,cash ,,-28420.0
+47.0,Hassan Qureshi,hassan.qureshi@gmailcom,09-16-2023,Samsung Galaxy S22,eletronics,5.0,abc,lahor,Cash,Pending,
+,Ayesha Zafar,ayesha.zafar@gmail.com,16/07/2024,Smart TV,,4.0,0,,Card,,0.0
+49.0, HASSAN SAEED ,.hassan.saeed.@gmail.com,01/05/2023,Washing Machine,Accessories,,abc,karacchi,cash ,Pending,
+50.0,hina raza,hina.raza@yahoo.com,,Airpods Pro,Applinces,3.0,0,Multan,CARD,pendng,0.0
+,Usman Raza,usman.raza@hotmail.com,,Washing Machine,Appliances,,101393,lahor,Cash,Cancelled,
+,usman qureshi,usman.qureshi@yahoo.com,07/02/2023,Microwave,Accessories,-1.0,0,karacchi,Cash,,0.0
+53.0, bilal raza ,.bilal.raza.@gmial.com,2024-10-27,Airpods Pro,Applinces,-1.0,0,Lahore,CARD,Delivered,0.0
+54.0,Hassan Butt,hassan.butt@gmail.com,2024-12-21,Washing Machine,Accessories,1.0,86032,Multan,Bank Transfer,Cancelled,86032.0
+55.0,Sara Butt,sara.butt@yahoo.com,,Smart Watch,eletronics,5.0,abc,Multan,cash ,Cancelled,
+,Ali Mirza,ali.mirza@yahoo.com,12-20-2023,Bluetooth Speaker,eletronics,3.0,abc,Karachi,Card,delievered,
+, ayesha zafar ,.ayesha.zafar.@gmailcom,2024-08-02,Smart Watch,Accessories,,93358,Sargodha,CARD,Cancelled,
+,Sara Malik,sara.malik@hotmail.com,02-04-2023,McB00k Air,Accessories,,109921,Sargodha,Card,pendng,
+59.0,Hina Saeed,hina.saeed@hotmail.com,05-08-2024,Airpods Pro,eletronics,1.0,0,lahor,CARD,Cancelled,0.0
+60.0,BILAL KHAN,bilal.khan@hotmail.com,10-15-2024,Samsung Galaxy S22,eletronics,,abc,,Card,,
+61.0, Usman Chaudhry ,.usman.chaudhry.@gmail.com,,Smsung Glxy S22,Applinces,-1.0,abc,islmabad,cash ,pendng,
+,Sara Qureshi,sara.qureshi@gmial.com,2023-10-14,Airpods Pro,eletronics,-1.0,0,Faisalabad,CARD,,0.0
+63.0,ali qureshi,ali.qureshi@gmailcom,2023-08-06,iPhone 14 Pro,Appliances,,54793,islmabad,Card,pendng,
+64.0,Fatima Sheikh,fatima.sheikh,29/05/2023,Microwave,Appliances,,7758,Lahore,Bank Transfer,Pending,
+,AYESHA KHAN,ayesha.khan@gmial.com,,Washing Machine,Applinces,5.0,0,Sargodha,CARD,Delivered,0.0
+,Hina Chaudhry,hina.chaudhry@gmail.com,,Samsung Galaxy S22,eletronics,1.0,0,Islamabad,Cash,Pending,0.0
+67.0,Kashif Zafar,kashif.zafar@gmial.com,,Samsung Galaxy S22,Electronics,,abc,karacchi,Card,delievered,
+68.0, Usman Qureshi ,.usman.qureshi.@gmailcom,09-19-2023,MacBook Air,eletronics,1.0,23377,lahor,Cash,,23377.0
+,Ayesha Raza,ayesha.raza@gmial.com,2024-11-17,Bluetooth Speaker,,,abc,,Bank Transfer,Cancelled,
+70.0, kashif saeed ,.kashif.saeed.@gmail.com,07-23-2024,Samsung Galaxy S22,Applinces,-1.0,0,,,,0.0
+,Ali Zafar,ali.zafar,10-07-2023,Airpods Pro,Appliances,,106063,Islamabad,,,
+72.0,AHMED SAEED,ahmed.saeed@hotmail.com,2023-11-29,iPhone 14 Pro,Applinces,,abc,karacchi,,delievered,
+73.0, Kashif Mirza ,.kashif.mirza.@gmial.com,2024-03-16,Smart TV,Applinces,,81850,Sargodha,cash ,pendng,
+74.0, ALI BUTT ,.ali.butt.@hotmail.com,2023-05-03,Washing Machine,Appliances,-1.0,0,Sargodha,CARD,pendng,0.0
+,ayesha malik,ayesha.malik@gmailcom,,Smart Watch,,-1.0,abc,Lahore,Bank Transfer,Pending,
+, usman sheikh ,.usman.sheikh.@gmial.com,,Smart TV,Appliances,3.0,0,Karachi,CARD,pendng,0.0
+77.0,Ayesha Sheikh,ayesha.sheikh@yahoo.com,05-30-2023,HP Laptop,Appliances,1.0,abc,,CARD,delievered,
+,kashif zafar,kashif.zafar@gmailcom,03-28-2024,Smart TV,Accessories,5.0,abc,karacchi,Cash,Delivered,
+79.0,Hassan Malik,hassan.malik@gmail.com,,Washing Machine,,-1.0,abc,,cash ,pendng,
+80.0,ali mirza,ali.mirza@gmail.com,2023-06-26,HP Laptop,eletronics,,abc,Faisalabad,Bank Transfer,delievered,
+81.0,ayesha zafar,ayesha.zafar@hotmail.com,,Smart TV,,5.0,88388,,,Pending,441940.0
+82.0, hassan qureshi ,.hassan.qureshi.@gmial.com,03/12/2023,Micr0wve,,,95851,Faisalabad,Bank Transfer,Pending,
+83.0, ayesha mirza ,.ayesha.mirza.@hotmail.com,2023-04-14,Airpods Pro,Applinces,,99754,Islamabad,Card,,
+,SARA MIRZA,sara.mirza@gmailcom,04/04/2024,Microwave,eletronics,-1.0,abc,Multan,cash ,pendng,
+,Bilal Raza,bilal.raza@yahoo.com,,Airpods Pro,Electronics,5.0,75727,Islamabad,Bank Transfer,delievered,378635.0
+,sara qureshi,sara.qureshi@hotmail.com,2024-02-29,Bluetooth Speaker,Appliances,4.0,99281,Lahore,Bank Transfer,Delivered,397124.0
+,AYESHA RAZA,ayesha.raza@yahoo.com,,Smrt Wtch,Electronics,-1.0,57532,islmabad,,pendng,-57532.0
+, Bilal Malik ,.bilal.malik.,,Smsung Glxy S22,eletronics,,0,islmabad,CARD,Pending,
+,Sara Chaudhry,sara.chaudhry@yahoo.com,2023-07-11,Microwave,Electronics,,0,islmabad,Cash,delievered,
+90.0, Ali Qureshi ,.ali.qureshi.@gmail.com,03-11-2023,HP Laptop,,,88167,Lahore,Bank Transfer,pendng,
+91.0,Sara Mirza,sara.mirza@yahoo.com,,iPhone 14 Pro,Electronics,2.0,abc,islmabad,cash ,pendng,
+92.0, Hassan Khan ,.hassan.khan.@hotmail.com,02-18-2023,Smrt TV,Accessories,-1.0,abc,Faisalabad,Card,delievered,
+,Usman Sheikh,usman.sheikh@gmail.com,,Smart Watch,Appliances,-1.0,85203,Karachi,Bank Transfer,,-85203.0
+94.0,Hassan Mirza,hassan.mirza@gmailcom,02-13-2023,Smart Watch,Accessories,1.0,abc,islmabad,,,
+95.0,Ali Raza,ali.raza,10/03/2023,Airpods Pro,Applinces,,0,karacchi,Bank Transfer,Cancelled,
+96.0,AHMED ZAFAR,ahmed.zafar@hotmail.com,2023-04-27,MacBook Air,eletronics,5.0,abc,karacchi,Card,pendng,
+97.0,usman butt,usman.butt@gmailcom,11-29-2024,Airpods Pro,Applinces,-1.0,79631,Islamabad,Bank Transfer,pendng,-79631.0
+98.0, Ahmed Butt ,.ahmed.butt.,07-21-2024,Washing Machine,Applinces,,23600,Multan,cash ,,
+,Usman Saeed,usman.saeed@gmial.com,2023-11-21,Washing Machine,Applinces,3.0,0,,Card,Pending,0.0
+100.0,Hina Khan,hina.khan@hotmail.com,27/11/2023,Airpods Pro,Applinces,3.0,66694,islmabad,Bank Transfer,Pending,200082.0
+,Hassan Zafar,hassan.zafar@yahoo.com,17/08/2024,MacBook Air,,-1.0,148749,Lahore,Cash,Delivered,-148749.0
+,Kashif Chaudhry,kashif.chaudhry@gmailcom,,Microwave,Accessories,4.0,abc,karacchi,Cash,,
+103.0,Sara Mirza,sara.mirza@hotmail.com,11-17-2023,Airpods Pro,Appliances,,148233,Faisalabad,Card,delievered,
+104.0, HASSAN MIRZA ,.hassan.mirza.@gmailcom,04/03/2024,MacBook Air,Applinces,3.0,abc,islmabad,cash ,delievered,
+105.0,USMAN KHAN,usman.khan@yahoo.com,2023-12-28,iPhone 14 Pro,Applinces,-1.0,141690,Karachi,cash ,Pending,-141690.0
+106.0,AYESHA QURESHI,ayesha.qureshi@yahoo.com,2023-10-23,Bluetooth Speaker,Applinces,,32145,Karachi,cash ,Cancelled,
+107.0, Hina Sheikh ,.hina.sheikh.@gmial.com,2023-02-11,iPh0ne 14 Pr0,Accessories,,120796,,CARD,Pending,
+108.0,kashif sheikh,kashif.sheikh@hotmail.com,,Smart Watch,Electronics,-1.0,abc,,Bank Transfer,,
+,Ali Zafar,ali.zafar@gmial.com,,MacBook Air,,-1.0,0,Sargodha,Cash,pendng,0.0
+, AHMED BUTT ,.ahmed.butt.@yahoo.com,,iPhone 14 Pro,Applinces,,0,karacchi,CARD,delievered,
+111.0,Sara Mirza,sara.mirza@hotmail.com,11-28-2024,Smart Watch,Appliances,,79249,Multan,Bank Transfer,,
+112.0,Usman Sheikh,usman.sheikh@hotmail.com,,Bluetooth Speaker,Appliances,3.0,0,Karachi,Bank Transfer,delievered,0.0
+, hassan mirza ,.hassan.mirza.@gmial.com,2023-05-21,Smart Watch,Appliances,2.0,140209,Sargodha,Cash,Delivered,280418.0
+114.0, ayesha mirza ,.ayesha.mirza.@gmial.com,,Washing Machine,Appliances,-1.0,0,Lahore,Cash,,0.0
+,Fatima Saeed,fatima.saeed@gmail.com,,MacBook Air,Electronics,-1.0,0,Multan,Cash,Delivered,0.0
+116.0, kashif zafar ,.kashif.zafar.@gmial.com,,Smart TV,Electronics,3.0,0,Multan,,Pending,0.0
+117.0,Ayesha Chaudhry,ayesha.chaudhry@yahoo.com,,Bluetooth Speaker,Electronics,,26004,Islamabad,cash ,Cancelled,
+118.0, ALI CHAUDHRY ,.ali.chaudhry.@hotmail.com,2024-08-09,Smart TV,,2.0,abc,Multan,Card,delievered,
+,Hina Chaudhry,hina.chaudhry@hotmail.com,15/08/2023,MacBook Air,eletronics,-1.0,0,islmabad,cash ,pendng,0.0
+,Fatima Butt,fatima.butt@gmail.com,06-24-2024,Samsung Galaxy S22,Electronics,,133510,,CARD,Pending,
+121.0,Ayesha Saeed,ayesha.saeed@gmial.com,,iPhone 14 Pro,Applinces,-1.0,148825,islmabad,cash ,,-148825.0
+122.0, ALI QURESHI ,.ali.qureshi.,2023-12-19,Microwave,Electronics,4.0,abc,Islamabad,Card,,
+,Bilal Sheikh,bilal.sheikh@gmailcom,30/11/2024,Airp0ds Pr0,Applinces,,0,Sargodha,Cash,Delivered,
+124.0,Usman Saeed,usman.saeed@yahoo.com,21/12/2023,Smart TV,,1.0,0,Lahore,Card,Pending,0.0
+125.0,ahmed zafar,ahmed.zafar@gmail.com,,Washing Machine,Appliances,1.0,abc,Sargodha,,pendng,
+126.0,Kashif Zafar,kashif.zafar@yahoo.com,27/05/2023,Bluetooth Speaker,Electronics,,0,lahor,CARD,delievered,
+127.0,Ayesha Qureshi,ayesha.qureshi@gmailcom,,MacBook Air,eletronics,2.0,0,Islamabad,cash ,Delivered,0.0
+, Bilal Qureshi ,.bilal.qureshi.@yahoo.com,2023-12-05,Washing Machine,Electronics,,50933,Multan,cash ,,
+, Kashif Khan ,.kashif.khan.@gmial.com,26/07/2024,Washing Machine,Accessories,3.0,56524,Karachi,,delievered,169572.0
+130.0,KASHIF BUTT,kashif.butt@hotmail.com,06-30-2024,Smart TV,Applinces,-1.0,0,karacchi,Bank Transfer,Pending,0.0
+131.0,ayesha qureshi,ayesha.qureshi@gmail.com,,Smart TV,Accessories,-1.0,abc,islmabad,,,
+132.0,Hassan Mirza,hassan.mirza@gmailcom,27/12/2023,MacBook Air,eletronics,,0,Lahore,Cash,,
+133.0, ali qureshi ,.ali.qureshi.,,Airp0ds Pr0,,-1.0,128888,Lahore,CARD,pendng,-128888.0
+134.0, Ali Khan ,.ali.khan.,,McB00k Air,Electronics,5.0,64168,,CARD,Cancelled,320840.0
+135.0,hassan qureshi,hassan.qureshi@yahoo.com,08-20-2023,Samsung Galaxy S22,,1.0,abc,lahor,CARD,delievered,
+136.0,ali raza,ali.raza@hotmail.com,2023-04-08,HP Laptop,,-1.0,72065,Karachi,,Cancelled,-72065.0
+, kashif khan ,.kashif.khan.@yahoo.com,,Samsung Galaxy S22,Applinces,,0,islmabad,Bank Transfer,delievered,
+,Sara Malik,sara.malik@gmail.com,2023-08-26,Airpods Pro,Applinces,-1.0,86557,Multan,cash ,delievered,-86557.0
+139.0,Ayesha Saeed,ayesha.saeed@gmial.com,03-29-2023,HP Laptop,Electronics,3.0,0,Islamabad,,delievered,0.0
+140.0,ayesha malik,ayesha.malik@hotmail.com,31/03/2023,Bluetooth Speaker,Applinces,-1.0,28077,Karachi,Bank Transfer,pendng,-28077.0
+141.0,Kashif Zafar,kashif.zafar@gmail.com,2024-02-02,Microwave,Appliances,,0,lahor,Card,Pending,
+142.0, Hassan Chaudhry ,.hassan.chaudhry.@gmailcom,,Samsung Galaxy S22,Appliances,,abc,Karachi,Card,Cancelled,
+143.0,Bilal Sheikh,bilal.sheikh@hotmail.com,16/03/2024,Smart TV,,-1.0,83361,lahor,Bank Transfer,Cancelled,-83361.0
+,Usman Zafar,usman.zafar@hotmail.com,02-07-2024,Samsung Galaxy S22,Appliances,,0,islmabad,Cash,,
+145.0,Fatima Mirza,fatima.mirza@gmail.com,,MacBook Air,Appliances,,0,lahor,cash ,Delivered,
+146.0,Kashif Mirza,kashif.mirza@gmailcom,2024-01-04,Samsung Galaxy S22,,3.0,0,lahor,Bank Transfer,delievered,0.0
+147.0,ali malik,ali.malik@gmial.com,,Airpods Pro,,,132194,Faisalabad,Cash,delievered,
+148.0, Hassan Qureshi ,.hassan.qureshi.@yahoo.com,,HP Laptop,Accessories,4.0,0,karacchi,Bank Transfer,Delivered,0.0
+149.0, ALI MALIK ,.ali.malik.@yahoo.com,07/09/2023,Microwave,Applinces,-1.0,abc,Islamabad,Card,,
+, bilal qureshi ,.bilal.qureshi.@gmial.com,05/01/2023,HP Laptop,,,0,Islamabad,Bank Transfer,Cancelled,
+151.0,usman malik,usman.malik@hotmail.com,,Smrt Wtch,Accessories,,0,Multan,CARD,pendng,
+152.0, SARA SHEIKH ,.sara.sheikh.@yahoo.com,04/03/2024,Smart Watch,Appliances,,0,Islamabad,CARD,Pending,
+153.0,hassan raza,hassan.raza@hotmail.com,11/05/2024,HP Laptop,Applinces,,abc,karacchi,cash ,,
+154.0,USMAN RAZA,usman.raza,08-19-2023,MacBook Air,Applinces,,134904,,Cash,Cancelled,
+, Ayesha Saeed ,.ayesha.saeed.@gmailcom,2024-03-11,HP Laptop,Electronics,-1.0,92377,karacchi,Cash,Pending,-92377.0
+156.0,Kashif Sheikh,kashif.sheikh@gmailcom,23/05/2023,HP Laptop,Applinces,,0,islmabad,Card,Cancelled,
+,Hassan Chaudhry,hassan.chaudhry@gmial.com,2024-11-26,MacBook Air,eletronics,-1.0,0,Islamabad,Card,Pending,0.0
+,Ayesha Butt,ayesha.butt@gmailcom,10-09-2024,Bluetooth Speaker,Electronics,-1.0,0,Multan,,Cancelled,0.0
+159.0,Usman Sheikh,usman.sheikh@gmail.com,04-14-2024,Samsung Galaxy S22,eletronics,-1.0,abc,Multan,Bank Transfer,Cancelled,
+160.0,hina zafar,hina.zafar,,iPh0ne 14 Pr0,Appliances,-1.0,abc,Sargodha,,Pending,
+,Hassan Raza,hassan.raza@gmail.com,2023-09-14,Airpods Pro,,2.0,0,Multan,,,0.0
+162.0, Bilal Malik ,.bilal.malik.@gmailcom,30/08/2024,Microwave,Electronics,,91065,lahor,,Pending,
+163.0, ahmed butt ,.ahmed.butt.@hotmail.com,03/11/2023,Bluetooth Speaker,Appliances,2.0,0,Lahore,CARD,,0.0
+164.0,Usman Sheikh,usman.sheikh@yahoo.com,,HP Lpt0p,Electronics,2.0,abc,lahor,Bank Transfer,Pending,
+165.0,hassan malik,hassan.malik@hotmail.com,2024-12-08,Smart TV,Applinces,5.0,abc,Lahore,Card,delievered,
+166.0,Ahmed Butt,ahmed.butt@gmial.com,01-13-2023,Airp0ds Pr0,Applinces,-1.0,0,Islamabad,cash ,Delivered,0.0
+167.0,KASHIF MALIK,kashif.malik@gmailcom,,Bluetooth Speaker,Electronics,,abc,Karachi,Bank Transfer,Delivered,
+,Fatima Raza,fatima.raza@gmail.com,23/03/2024,iPhone 14 Pro,eletronics,-1.0,abc,Islamabad,Cash,Delivered,
+,sara khan,sara.khan@hotmail.com,05-10-2023,Samsung Galaxy S22,Electronics,-1.0,0,Karachi,Bank Transfer,,0.0
+,Ahmed Mirza,ahmed.mirza@gmailcom,06-20-2023,MacBook Air,Electronics,,31234,islmabad,Cash,Delivered,
+171.0,Fatima Khan,fatima.khan@yahoo.com,,HP Laptop,eletronics,-1.0,0,Faisalabad,Cash,pendng,0.0
+, ali raza ,.ali.raza.@gmailcom,04-21-2024,Smart TV,Applinces,4.0,97709,Multan,CARD,Cancelled,390836.0
+,Kashif Butt,kashif.butt@gmailcom,20/07/2023,McB00k Air,eletronics,1.0,abc,Lahore,Bank Transfer,Delivered,
+, bilal chaudhry ,.bilal.chaudhry.@gmailcom,05-26-2023,Smsung Glxy S22,Appliances,-1.0,abc,Karachi,CARD,Delivered,
+,sara qureshi,sara.qureshi@yahoo.com,09-25-2023,Bluetooth Speaker,,-1.0,abc,Sargodha,Cash,Pending,
+176.0,KASHIF MALIK,kashif.malik@gmailcom,02/01/2024,Washing Machine,Accessories,1.0,0,Multan,,,0.0
+,Ali Butt,ali.butt@gmail.com,,Micr0wve,Accessories,3.0,abc,karacchi,CARD,,
+,Fatima Malik,fatima.malik@yahoo.com,05/03/2023,MacBook Air,eletronics,,0,,Bank Transfer,Delivered,
+179.0,Ahmed Butt,ahmed.butt@yahoo.com,2023-12-06,iPhone 14 Pro,Electronics,,0,lahor,cash ,Delivered,
+180.0, bilal raza ,.bilal.raza.@gmailcom,05/02/2023,Smart TV,Applinces,4.0,abc,lahor,Card,delievered,
+181.0,Hina Butt,hina.butt@gmail.com,12-31-2024,Washing Machine,eletronics,,abc,lahor,Bank Transfer,Pending,
+182.0,ayesha zafar,ayesha.zafar@gmail.com,04-28-2024,Smart Watch,Appliances,1.0,abc,islmabad,,Delivered,
+183.0,kashif qureshi,kashif.qureshi@yahoo.com,11-22-2023,Smrt Wtch,,,148746,,Card,delievered,
+, Hassan Raza ,.hassan.raza.@yahoo.com,,iPhone 14 Pro,Applinces,2.0,0,Islamabad,Bank Transfer,Delivered,0.0
+185.0, Sara Zafar ,.sara.zafar.@gmail.com,2024-01-09,Airpods Pro,,,abc,Multan,Bank Transfer,Pending,
+186.0, Bilal Mirza ,.bilal.mirza.@gmial.com,09-20-2024,HP Laptop,Appliances,-1.0,78205,Islamabad,,Delivered,-78205.0
+,Kashif Qureshi,kashif.qureshi,09-08-2024,Smart Watch,Applinces,-1.0,abc,Karachi,Card,Cancelled,
+188.0,Sara Malik,sara.malik@hotmail.com,29/09/2023,HP Laptop,Accessories,3.0,1335,lahor,cash ,,4005.0
+189.0,Sara Qureshi,sara.qureshi@gmial.com,05/05/2024,MacBook Air,Electronics,3.0,abc,Karachi,Cash,Cancelled,
+190.0,Bilal Raza,bilal.raza@gmail.com,,iPhone 14 Pro,,,114823,Lahore,Cash,Cancelled,
+191.0,Fatima Qureshi,fatima.qureshi@gmial.com,10-16-2023,HP Lpt0p,eletronics,,129699,Lahore,Bank Transfer,Delivered,
+192.0,Ahmed Chaudhry,ahmed.chaudhry@gmailcom,27/01/2023,MacBook Air,Electronics,4.0,abc,karacchi,cash ,,
+193.0,AHMED SAEED,ahmed.saeed@yahoo.com,,Washing Machine,Accessories,5.0,0,Karachi,Cash,,0.0
+194.0,Hina Qureshi,hina.qureshi@gmial.com,,Microwave,eletronics,5.0,abc,Karachi,cash ,,
+195.0,Hina Zafar,hina.zafar@gmial.com,04/04/2024,MacBook Air,Appliances,2.0,111985,lahor,Card,,223970.0
+196.0,kashif chaudhry,kashif.chaudhry@gmail.com,02-11-2024,Smart TV,Electronics,,abc,Karachi,cash ,Pending,
+197.0,Kashif Zafar,kashif.zafar@gmail.com,2024-07-30,Smart TV,Accessories,-1.0,0,karacchi,CARD,pendng,0.0
+198.0,ALI RAZA,ali.raza,06/12/2023,iPhone 14 Pro,Accessories,3.0,abc,Multan,Bank Transfer,delievered,
+,ahmed butt,ahmed.butt@hotmail.com,2024-03-02,HP Laptop,eletronics,,99018,islmabad,Card,Delivered,
+200.0,hina qureshi,hina.qureshi@gmail.com,2023-07-25,HP Lpt0p,Electronics,,abc,Faisalabad,cash ,pendng,
+201.0,AHMED KHAN,ahmed.khan@gmailcom,12-25-2023,MacBook Air,Accessories,-1.0,abc,Lahore,Card,pendng,
+202.0, Fatima Butt ,.fatima.butt.@gmailcom,2024-11-29,Washing Machine,,,3218,Multan,CARD,Cancelled,
+,Hassan Qureshi,hassan.qureshi@gmailcom,04-22-2024,Microwave,eletronics,5.0,0,Faisalabad,CARD,,0.0
+, KASHIF CHAUDHRY ,.kashif.chaudhry.@hotmail.com,10-11-2023,Smart TV,Applinces,2.0,0,Faisalabad,,Pending,0.0
+, Ali Mirza ,.ali.mirza.@gmailcom,06/02/2023,Airpods Pro,Appliances,,0,Faisalabad,CARD,Cancelled,
+206.0,HINA RAZA,hina.raza@gmial.com,07-07-2023,Samsung Galaxy S22,Appliances,-1.0,abc,Multan,CARD,Cancelled,
+207.0,ahmed mirza,ahmed.mirza@gmial.com,2023-07-19,Bluetooth Speaker,eletronics,1.0,37009,Faisalabad,cash ,pendng,37009.0
+208.0, Sara Sheikh ,.sara.sheikh.@gmail.com,08/10/2024,Airpods Pro,Electronics,-1.0,55888,,Card,delievered,-55888.0
+209.0,Sara Zafar,sara.zafar@gmailcom,2024-01-28,iPhone 14 Pro,,3.0,0,Sargodha,Cash,,0.0
+210.0,Fatima Butt,fatima.butt@yahoo.com,05-30-2024,McB00k Air,Electronics,-1.0,0,islmabad,CARD,pendng,0.0
+211.0,bilal raza,bilal.raza@yahoo.com,2024-02-18,HP Laptop,Appliances,,0,islmabad,Card,Delivered,
+212.0, Ali Qureshi ,.ali.qureshi.@gmial.com,2024-08-31,Samsung Galaxy S22,Electronics,,abc,karacchi,cash ,Delivered,
+, Hassan Mirza ,.hassan.mirza.@gmail.com,2024-11-08,Microwave,Applinces,-1.0,0,,Cash,Cancelled,0.0
+214.0, AHMED MIRZA ,.ahmed.mirza.@gmial.com,,Smart TV,Applinces,4.0,abc,Sargodha,Cash,Delivered,
+,Ahmed Malik,ahmed.malik@yahoo.com,2024-06-07,Samsung Galaxy S22,,-1.0,abc,karacchi,Cash,Delivered,
+216.0,ali chaudhry,ali.chaudhry@gmail.com,2023-02-16,MacBook Air,Appliances,-1.0,0,Multan,,Delivered,0.0
+217.0,AYESHA RAZA,ayesha.raza@gmailcom,,McB00k Air,,1.0,abc,,cash ,pendng,
+,Usman Raza,usman.raza,01/12/2024,Washing Machine,Electronics,-1.0,13051,Multan,,Cancelled,-13051.0
+219.0, Hina Zafar ,.hina.zafar.@hotmail.com,2024-12-05,Bluetooth Speaker,Appliances,-1.0,101893,islmabad,CARD,Delivered,-101893.0
+220.0,Sara Saeed,sara.saeed@yahoo.com,05-18-2024,HP Laptop,Accessories,,0,lahor,cash ,Pending,
+221.0,Usman Mirza,usman.mirza@gmailcom,,iPh0ne 14 Pr0,eletronics,,144942,Karachi,CARD,pendng,
+,Hassan Saeed,hassan.saeed@gmailcom,2024-01-08,HP Laptop,Accessories,,0,Faisalabad,,delievered,
+223.0,AHMED BUTT,ahmed.butt@hotmail.com,2024-01-18,iPhone 14 Pro,eletronics,,108272,Multan,CARD,Pending,
+224.0, ahmed qureshi ,.ahmed.qureshi.@hotmail.com,2024-02-29,Smrt Wtch,eletronics,,133172,karacchi,Cash,pendng,
+,Ali Saeed,ali.saeed@gmailcom,01/07/2023,McB00k Air,,,0,lahor,cash ,pendng,
+, FATIMA CHAUDHRY ,.fatima.chaudhry.@yahoo.com,09-08-2024,Microwave,,,57975,Sargodha,CARD,,
+227.0,Ayesha Raza,ayesha.raza@yahoo.com,12-11-2024,Samsung Galaxy S22,Applinces,,0,islmabad,Bank Transfer,delievered,
+228.0,HINA MALIK,hina.malik@yahoo.com,06-14-2023,Smrt TV,Electronics,3.0,142865,Faisalabad,cash ,Delivered,428595.0
+,Hina Butt,hina.butt@yahoo.com,12-13-2024,iPhone 14 Pro,eletronics,,0,Lahore,Cash,,
+230.0,Fatima Zafar,fatima.zafar@gmailcom,10-10-2024,Smart Watch,Applinces,,abc,karacchi,Card,,
+231.0, Sara Raza ,.sara.raza.@gmail.com,07-23-2024,MacBook Air,Accessories,-1.0,0,Islamabad,Cash,Pending,0.0
+232.0,Kashif Khan,kashif.khan@hotmail.com,08-09-2024,Samsung Galaxy S22,Accessories,5.0,0,Karachi,CARD,Pending,0.0
+233.0,Hina Saeed,hina.saeed@yahoo.com,12-06-2023,Smart TV,Applinces,-1.0,0,Lahore,Cash,,0.0
+234.0,Usman Butt,usman.butt@gmial.com,02-10-2023,Bluetooth Speaker,Electronics,-1.0,0,Multan,Cash,pendng,0.0
+235.0, Hina Saeed ,.hina.saeed.@yahoo.com,2023-03-26,MacBook Air,Applinces,5.0,18163,Sargodha,,delievered,90815.0
+236.0,Fatima Saeed,fatima.saeed@gmailcom,15/03/2023,iPhone 14 Pro,Accessories,1.0,20201,Islamabad,Bank Transfer,pendng,20201.0
+237.0,Kashif Butt,kashif.butt@gmailcom,03-19-2024,iPhone 14 Pro,Electronics,5.0,0,,Cash,,0.0
+238.0,ayesha saeed,ayesha.saeed@gmail.com,,Bluetooth Speaker,Electronics,4.0,140845,Islamabad,,delievered,563380.0
+,hassan raza,hassan.raza@hotmail.com,12/01/2023,Smsung Glxy S22,Applinces,-1.0,0,Karachi,Bank Transfer,Pending,0.0
+,Ayesha Butt,ayesha.butt@gmial.com,08/07/2023,Smart Watch,Appliances,1.0,149712,islmabad,cash ,,149712.0
+, Ahmed Chaudhry ,.ahmed.chaudhry.@yahoo.com,05-13-2024,Airp0ds Pr0,,2.0,0,Karachi,Card,Cancelled,0.0
+242.0,Usman Sheikh,usman.sheikh@gmial.com,08-03-2024,Airpods Pro,Appliances,-1.0,65533,lahor,Bank Transfer,Cancelled,-65533.0
+243.0,Ayesha Mirza,ayesha.mirza@hotmail.com,22/04/2023,Smrt Wtch,Accessories,,abc,Karachi,,Delivered,
+244.0,Hina Khan,hina.khan@gmial.com,02-07-2023,Microwave,Applinces,,abc,lahor,Card,pendng,
+,Hassan Raza,hassan.raza@gmailcom,11/01/2023,Smart Watch,Applinces,-1.0,42739,,CARD,,-42739.0
+246.0, usman sheikh ,.usman.sheikh.@hotmail.com,13/02/2023,Microwave,Accessories,-1.0,120182,Lahore,,Cancelled,-120182.0
+247.0, Hina Chaudhry ,.hina.chaudhry.@gmial.com,,Airpods Pro,Electronics,-1.0,99652,islmabad,cash ,Cancelled,-99652.0
+248.0, Usman Mirza ,.usman.mirza.@yahoo.com,2023-08-24,Microwave,Appliances,2.0,abc,,,Delivered,
+,Fatima Qureshi,fatima.qureshi@gmailcom,05/05/2024,Smart Watch,eletronics,1.0,12310,,CARD,Pending,12310.0
+250.0, Hina Khan ,.hina.khan.@yahoo.com,,Smart Watch,,,75305,Sargodha,cash ,pendng,
+251.0, USMAN RAZA ,.usman.raza.@gmial.com,07-06-2023,MacBook Air,Accessories,,19046,lahor,cash ,Pending,
+252.0,Ali Butt,ali.butt@gmailcom,2024-09-12,MacBook Air,Applinces,5.0,0,Karachi,Cash,delievered,0.0
+, Sara Zafar ,.sara.zafar.@gmailcom,2024-01-15,Microwave,eletronics,-1.0,abc,Islamabad,Bank Transfer,delievered,
+254.0,Ahmed Chaudhry,ahmed.chaudhry@hotmail.com,2024-12-27,Smart Watch,Applinces,-1.0,0,Faisalabad,cash ,Cancelled,0.0
+255.0, Sara Qureshi ,.sara.qureshi.@gmial.com,01-10-2024,Bluetooth Speaker,eletronics,,127476,Faisalabad,CARD,pendng,
+256.0,Hassan Chaudhry,hassan.chaudhry@gmailcom,2024-11-06,HP Laptop,,2.0,0,lahor,Bank Transfer,pendng,0.0
+,ali raza,ali.raza@yahoo.com,,Smsung Glxy S22,Appliances,3.0,0,lahor,cash ,pendng,0.0
+,Hina Chaudhry,hina.chaudhry@yahoo.com,2024-03-25,HP Laptop,Applinces,3.0,0,islmabad,CARD,,0.0
+259.0,Kashif Raza,kashif.raza@gmail.com,03-30-2023,Bluetooth Speaker,eletronics,,0,Lahore,,,
+260.0,ahmed saeed,ahmed.saeed@hotmail.com,11/10/2023,Smart Watch,eletronics,,abc,Islamabad,cash ,pendng,
+261.0,Hina Malik,hina.malik@gmail.com,09-21-2023,Washing Machine,Applinces,4.0,abc,karacchi,CARD,Delivered,
+262.0,ahmed chaudhry,ahmed.chaudhry@yahoo.com,02-27-2024,Microwave,,3.0,76311,lahor,,,228933.0
+263.0,Ahmed Saeed,ahmed.saeed@hotmail.com,08-10-2024,MacBook Air,,-1.0,53341,Sargodha,Bank Transfer,Pending,-53341.0
+264.0,Fatima Butt,fatima.butt@gmail.com,,Smrt Wtch,Applinces,-1.0,0,Faisalabad,cash ,pendng,0.0
+265.0,Usman Raza,usman.raza@hotmail.com,13/08/2024,iPhone 14 Pro,eletronics,,0,Faisalabad,cash ,,
+266.0,Usman Malik,usman.malik,,Smrt Wtch,Accessories,-1.0,0,Multan,Card,Cancelled,0.0
+267.0, KASHIF SHEIKH ,.kashif.sheikh.@hotmail.com,02-15-2024,Washing Machine,Appliances,,60917,Multan,Card,pendng,
+268.0, bilal butt ,.bilal.butt.@gmail.com,26/05/2024,Microwave,Accessories,-1.0,0,,Cash,delievered,0.0
+269.0,SARA KHAN,sara.khan@gmail.com,12-09-2023,Airpods Pro,Applinces,-1.0,abc,Karachi,Bank Transfer,,
+,Fatima Zafar,fatima.zafar@yahoo.com,10-19-2023,Airpods Pro,eletronics,4.0,0,Multan,cash ,,0.0
+271.0,Sara Sheikh,sara.sheikh@gmailcom,2023-03-15,MacBook Air,Accessories,,0,Multan,CARD,,
+272.0,Hassan Mirza,hassan.mirza@gmial.com,,MacBook Air,Electronics,,0,Multan,,,
+, AHMED BUTT ,.ahmed.butt.@gmailcom,,Microwave,Electronics,-1.0,41704,lahor,Bank Transfer,Pending,-41704.0
+274.0, Hassan Mirza ,.hassan.mirza.,11-10-2024,Airpods Pro,eletronics,-1.0,abc,Islamabad,,pendng,
+275.0,Kashif Zafar,kashif.zafar@gmial.com,10-17-2024,Airpods Pro,Appliances,-1.0,abc,lahor,Bank Transfer,Pending,
+276.0,Ali Khan,ali.khan@yahoo.com,2024-04-25,Washing Machine,eletronics,3.0,abc,,Card,Delivered,
+,Ayesha Butt,ayesha.butt@gmailcom,,Bluetooth Speaker,Electronics,,0,,,,
+278.0,Hassan Saeed,hassan.saeed@gmail.com,2023-10-24,Washing Machine,Accessories,-1.0,abc,Lahore,Card,Delivered,
+, Ali Raza ,.ali.raza.@yahoo.com,09/01/2023,Samsung Galaxy S22,eletronics,-1.0,abc,karacchi,Bank Transfer,delievered,
+, ali sheikh ,.ali.sheikh.@hotmail.com,,MacBook Air,Accessories,4.0,0,Sargodha,cash ,delievered,0.0
+281.0,Ali Butt,ali.butt@gmial.com,,Bluetooth Speaker,Accessories,3.0,0,islmabad,CARD,Delivered,0.0
+282.0,usman chaudhry,usman.chaudhry@yahoo.com,,Airp0ds Pr0,Accessories,5.0,104758,Lahore,Cash,pendng,523790.0
+, usman zafar ,.usman.zafar.@gmailcom,09-25-2024,iPh0ne 14 Pr0,,,141601,Islamabad,cash ,Pending,
+284.0,Hina Sheikh,hina.sheikh,01-22-2024,MacBook Air,Electronics,,0,Multan,CARD,,
+285.0,FATIMA ZAFAR,fatima.zafar@hotmail.com,05/09/2024,Samsung Galaxy S22,eletronics,-1.0,abc,karacchi,Cash,,
+,Bilal Raza,bilal.raza@hotmail.com,09-02-2023,Samsung Galaxy S22,Applinces,4.0,0,karacchi,CARD,Pending,0.0
+,Hassan Sheikh,hassan.sheikh@gmail.com,2023-03-10,MacBook Air,Electronics,2.0,128236,Karachi,Cash,pendng,256472.0
+,Bilal Mirza,bilal.mirza,2023-08-15,iPhone 14 Pro,Appliances,4.0,0,Lahore,Bank Transfer,pendng,0.0
+, Bilal Sheikh ,.bilal.sheikh.@gmial.com,2023-02-11,Smrt TV,Appliances,5.0,0,Sargodha,CARD,delievered,0.0
+290.0,Fatima Saeed,fatima.saeed@yahoo.com,,Samsung Galaxy S22,Applinces,,0,lahor,Cash,Pending,
+291.0,Hina Qureshi,hina.qureshi@gmial.com,03-29-2024,Airpods Pro,Accessories,-1.0,0,Faisalabad,CARD,Pending,0.0
+,hina butt,hina.butt@hotmail.com,,iPhone 14 Pro,Accessories,5.0,136688,Multan,Cash,Cancelled,683440.0
+293.0,fatima sheikh,fatima.sheikh@hotmail.com,07/06/2024,Smsung Glxy S22,Accessories,2.0,abc,,Card,Pending,
+294.0,Hassan Malik,hassan.malik@yahoo.com,,MacBook Air,,5.0,79746,,cash ,Delivered,398730.0
+295.0,Ayesha Sheikh,ayesha.sheikh@gmail.com,2023-08-21,Bluet00th Speker,Applinces,-1.0,0,Islamabad,Bank Transfer,pendng,0.0
+,fatima raza,fatima.raza@gmailcom,2024-08-12,HP Laptop,eletronics,2.0,89124,karacchi,CARD,,178248.0
+297.0,HINA QURESHI,hina.qureshi@yahoo.com,07/05/2024,Washing Machine,Applinces,,138428,Sargodha,Cash,Cancelled,
+298.0,ayesha zafar,ayesha.zafar@hotmail.com,2023-12-19,Smart TV,Accessories,-1.0,abc,Lahore,Card,Pending,
+,Ayesha Raza,ayesha.raza@gmail.com,06/09/2023,Smrt TV,,-1.0,abc,Lahore,Bank Transfer,Pending,
+, hina butt ,.hina.butt.@gmailcom,2023-05-25,Bluetooth Speaker,,5.0,67966,Lahore,Bank Transfer,Pending,339830.0
+, kashif chaudhry ,.kashif.chaudhry.@gmailcom,11-09-2024,Smsung Glxy S22,,4.0,0,Karachi,Bank Transfer,delievered,0.0
+,hina malik,hina.malik,06-26-2024,Airpods Pro,,2.0,0,Faisalabad,Bank Transfer,,0.0
+303.0, FATIMA SAEED ,.fatima.saeed.@gmailcom,01-31-2023,HP Laptop,eletronics,2.0,0,,,,0.0
+304.0,Bilal Butt,bilal.butt@hotmail.com,,Micr0wve,,,0,Sargodha,Card,Cancelled,
+,Hina Raza,hina.raza@yahoo.com,01/08/2024,Airp0ds Pr0,Applinces,1.0,84256,Lahore,Bank Transfer,delievered,84256.0
+306.0,Hassan Mirza,hassan.mirza@hotmail.com,2023-07-12,MacBook Air,Applinces,-1.0,0,Sargodha,CARD,Pending,0.0
+307.0, ali sheikh ,.ali.sheikh.@gmial.com,10-27-2024,MacBook Air,eletronics,4.0,43935,Sargodha,Cash,delievered,175740.0
+308.0, hassan qureshi ,.hassan.qureshi.@yahoo.com,,Airpods Pro,Appliances,-1.0,0,lahor,,Cancelled,0.0
+309.0,Kashif Zafar,kashif.zafar@gmail.com,,iPhone 14 Pro,Appliances,,0,Lahore,CARD,delievered,
+,ALI BUTT,ali.butt@hotmail.com,03-08-2024,Smart Watch,,5.0,0,karacchi,Cash,,0.0
+,Ahmed Raza,ahmed.raza@gmial.com,02-28-2024,Wshing Mchine,eletronics,,abc,Karachi,Bank Transfer,Cancelled,
+,sara malik,sara.malik@gmail.com,29/01/2024,Bluetooth Speaker,Electronics,-1.0,0,Islamabad,Card,Pending,0.0
+313.0,ali qureshi,ali.qureshi@hotmail.com,01/05/2023,HP Lpt0p,Accessories,-1.0,abc,islmabad,Cash,pendng,
+314.0,Fatima Butt,fatima.butt@gmailcom,2024-09-07,HP Laptop,Accessories,,147158,Lahore,Card,Pending,
+315.0,AYESHA KHAN,ayesha.khan@gmial.com,2023-03-31,Samsung Galaxy S22,Appliances,,0,,CARD,pendng,
+316.0,USMAN ZAFAR,usman.zafar@hotmail.com,2024-01-24,Bluetooth Speaker,Electronics,-1.0,36270,Multan,Bank Transfer,pendng,-36270.0
+317.0,Hina Butt,hina.butt@gmail.com,2024-10-06,Washing Machine,Applinces,-1.0,abc,islmabad,CARD,pendng,
+318.0,Sara Zafar,sara.zafar@gmailcom,04/07/2023,Smart TV,Electronics,1.0,0,Karachi,,Pending,0.0
+,BILAL QURESHI,bilal.qureshi,07-26-2023,Smart TV,Accessories,,abc,Lahore,Cash,,
+320.0,Ayesha Qureshi,ayesha.qureshi@gmail.com,07-18-2023,Airpods Pro,eletronics,4.0,abc,Islamabad,,delievered,
+,Ayesha Mirza,ayesha.mirza@gmail.com,11-03-2023,Microwave,Appliances,,abc,Karachi,Card,Cancelled,
+322.0,Ayesha Qureshi,ayesha.qureshi@gmial.com,2023-07-11,Smart TV,Accessories,-1.0,109493,karacchi,Card,Cancelled,-109493.0
+323.0, Hassan Butt ,.hassan.butt.@hotmail.com,2023-07-26,Washing Machine,eletronics,5.0,abc,karacchi,,pendng,
+324.0, Ayesha Raza ,.ayesha.raza.@gmial.com,16/05/2023,iPhone 14 Pro,,5.0,abc,Lahore,,pendng,
+325.0, Ayesha Mirza ,.ayesha.mirza.,16/11/2023,Airpods Pro,Accessories,,abc,Karachi,Bank Transfer,Pending,
+326.0,hassan malik,hassan.malik@yahoo.com,07-16-2024,Smrt TV,,,65179,Karachi,Bank Transfer,pendng,
+327.0,HINA MIRZA,hina.mirza@gmail.com,2023-02-25,Bluetooth Speaker,,,0,Faisalabad,Bank Transfer,Cancelled,
+328.0,Hina Malik,hina.malik@gmailcom,,Samsung Galaxy S22,,-1.0,61737,Islamabad,CARD,Cancelled,-61737.0
+329.0,Bilal Raza,bilal.raza@hotmail.com,2023-01-31,Wshing Mchine,eletronics,4.0,abc,,CARD,Pending,
+,Ahmed Qureshi,ahmed.qureshi@hotmail.com,03-14-2023,Microwave,Applinces,4.0,0,Islamabad,cash ,delievered,0.0
+331.0,Ayesha Butt,ayesha.butt@gmailcom,17/12/2023,MacBook Air,Electronics,-1.0,0,,cash ,Cancelled,0.0
+, ahmed mirza ,.ahmed.mirza.@gmail.com,,Airpods Pro,,1.0,58045,,,Delivered,58045.0
+333.0,Sara Mirza,sara.mirza@gmial.com,07-30-2023,Smart TV,,-1.0,91246,,Cash,pendng,-91246.0
+, Bilal Raza ,.bilal.raza.@gmial.com,01-01-2023,Samsung Galaxy S22,Electronics,-1.0,0,Faisalabad,,delievered,0.0
+335.0,Bilal Qureshi,bilal.qureshi@gmailcom,,Airpods Pro,Appliances,,33911,Lahore,Cash,,
+336.0,Sara Mirza,sara.mirza@yahoo.com,,Washing Machine,,-1.0,abc,islmabad,cash ,pendng,
+337.0, BILAL SHEIKH ,.bilal.sheikh.@gmailcom,08-31-2023,Bluetooth Speaker,Applinces,3.0,0,karacchi,,Cancelled,0.0
+338.0, Kashif Mirza ,.kashif.mirza.@gmial.com,,Micr0wve,Applinces,1.0,0,Karachi,,,0.0
+,Kashif Chaudhry,kashif.chaudhry@gmial.com,,Microwave,Applinces,-1.0,abc,Multan,Card,Delivered,
+,Kashif Chaudhry,kashif.chaudhry@gmail.com,15/08/2024,Smrt Wtch,Accessories,5.0,abc,Karachi,Card,pendng,
+341.0,HASSAN CHAUDHRY,hassan.chaudhry@gmail.com,10/09/2024,Smart Watch,,-1.0,abc,Sargodha,cash ,Pending,
+,Ali Sheikh,ali.sheikh@gmial.com,,Bluetooth Speaker,Appliances,,44852,,,Cancelled,
+343.0,HASSAN MALIK,hassan.malik@gmailcom,29/06/2024,Bluetooth Speaker,eletronics,-1.0,0,lahor,Cash,Cancelled,0.0
+344.0,Bilal Sheikh,bilal.sheikh@gmail.com,06-28-2024,Bluetooth Speaker,,-1.0,abc,Karachi,Bank Transfer,,
+,Bilal Mirza,bilal.mirza@gmial.com,06-16-2024,MacBook Air,Electronics,1.0,abc,Karachi,CARD,Delivered,
+, USMAN SHEIKH ,.usman.sheikh.@gmail.com,28/02/2023,Smart Watch,,1.0,abc,,Card,Delivered,
+, sara chaudhry ,.sara.chaudhry.@gmailcom,,Airpods Pro,Electronics,3.0,abc,Faisalabad,Cash,Cancelled,
+348.0, sara mirza ,.sara.mirza.@gmailcom,2024-05-18,MacBook Air,eletronics,,abc,Multan,Cash,Delivered,
+349.0,Ahmed Zafar,ahmed.zafar@gmail.com,2023-06-02,iPhone 14 Pro,Accessories,,abc,,Cash,pendng,
+,Usman Mirza,usman.mirza@gmail.com,,Wshing Mchine,Applinces,-1.0,abc,Lahore,,,
+351.0,Ayesha Saeed,ayesha.saeed@gmailcom,24/10/2023,MacBook Air,eletronics,-1.0,103263,Faisalabad,cash ,Delivered,-103263.0
+,USMAN BUTT,usman.butt@gmial.com,2024-02-03,Microwave,eletronics,-1.0,5303,Faisalabad,Cash,Cancelled,-5303.0
+,ali qureshi,ali.qureshi@gmailcom,03/07/2024,Smart Watch,Electronics,,abc,Lahore,cash ,pendng,
+354.0,fatima raza,fatima.raza@gmail.com,2023-06-24,Smsung Glxy S22,Applinces,5.0,17543,lahor,Bank Transfer,,87715.0
+,bilal sheikh,bilal.sheikh@hotmail.com,2023-08-07,Smart Watch,Electronics,-1.0,abc,Islamabad,,Cancelled,
+, sara mirza ,.sara.mirza.@gmial.com,2023-06-11,Wshing Mchine,Electronics,2.0,abc,karacchi,,Pending,
+357.0,Sara Chaudhry,sara.chaudhry@yahoo.com,08/02/2023,Washing Machine,Electronics,-1.0,110782,islmabad,Card,Pending,-110782.0
+358.0,Hina Malik,hina.malik@gmial.com,20/04/2024,Smrt TV,Electronics,,abc,Islamabad,Card,,
+359.0,ALI SHEIKH,ali.sheikh,23/02/2023,MacBook Air,eletronics,5.0,19575,karacchi,CARD,pendng,97875.0
+360.0,Bilal Butt,bilal.butt@yahoo.com,30/11/2023,Samsung Galaxy S22,eletronics,-1.0,58845,karacchi,CARD,delievered,-58845.0
+361.0, bilal raza ,.bilal.raza.@hotmail.com,07-18-2023,Smart TV,Appliances,,abc,Islamabad,Cash,delievered,
+362.0, Bilal Raza ,.bilal.raza.@hotmail.com,15/10/2024,Smart Watch,Appliances,-1.0,abc,Sargodha,CARD,delievered,
+363.0,Hassan Khan,hassan.khan@yahoo.com,20/03/2024,Smart Watch,Applinces,-1.0,12593,karacchi,,pendng,-12593.0
+364.0,bilal saeed,bilal.saeed@gmail.com,2023-09-04,Microwave,,4.0,abc,Multan,Card,,
+365.0, Ali Mirza ,.ali.mirza.@gmailcom,2024-08-20,Washing Machine,Appliances,4.0,0,karacchi,,,0.0
+366.0,Ahmed Qureshi,ahmed.qureshi@gmail.com,04/10/2023,Samsung Galaxy S22,Accessories,,96417,Karachi,cash ,Cancelled,
+367.0,KASHIF KHAN,kashif.khan@gmail.com,29/07/2023,Airpods Pro,Electronics,,0,Sargodha,Bank Transfer,Cancelled,
+368.0,HINA QURESHI,hina.qureshi@gmailcom,,Microwave,Applinces,-1.0,0,Karachi,Card,delievered,0.0
+369.0, Ahmed Qureshi ,.ahmed.qureshi.@gmail.com,2023-10-10,MacBook Air,Appliances,,abc,lahor,,pendng,
+370.0,Usman Sheikh,usman.sheikh@gmail.com,2023-03-06,HP Laptop,Applinces,-1.0,0,Faisalabad,cash ,pendng,0.0
+,Hina Saeed,hina.saeed@yahoo.com,10/11/2023,Smart TV,Accessories,3.0,abc,Multan,cash ,Pending,
+,sara saeed,sara.saeed@yahoo.com,2023-04-30,Airpods Pro,eletronics,-1.0,49364,islmabad,,Delivered,-49364.0
+,AYESHA SHEIKH,ayesha.sheikh@gmial.com,,Washing Machine,eletronics,3.0,0,islmabad,CARD,Cancelled,0.0
+,Hassan Mirza,hassan.mirza@gmial.com,,Airpods Pro,,4.0,0,islmabad,Cash,Cancelled,0.0
+375.0,Bilal Zafar,bilal.zafar@gmail.com,14/09/2024,Smart Watch,Accessories,2.0,0,karacchi,,,0.0
+376.0,HINA QURESHI,hina.qureshi@gmail.com,,MacBook Air,eletronics,-1.0,98735,Multan,Bank Transfer,Cancelled,-98735.0
+377.0,usman saeed,usman.saeed@gmailcom,23/10/2023,Bluetooth Speaker,eletronics,,23564,Sargodha,Bank Transfer,delievered,
+,Ayesha Malik,ayesha.malik@gmailcom,02-24-2024,Bluetooth Speaker,eletronics,5.0,53234,lahor,Bank Transfer,pendng,266170.0
+379.0,Ali Chaudhry,ali.chaudhry@gmial.com,2023-08-18,iPhone 14 Pro,Accessories,4.0,abc,Islamabad,cash ,,
+,FATIMA KHAN,fatima.khan@gmail.com,,Smart Watch,Accessories,,abc,islmabad,,pendng,
+381.0, Hassan Raza ,.hassan.raza.@gmailcom,05-19-2023,McB00k Air,Accessories,,94319,Multan,Bank Transfer,pendng,
+,ahmed saeed,ahmed.saeed@gmial.com,07-10-2024,Airpods Pro,,-1.0,96033,islmabad,CARD,Cancelled,-96033.0
+383.0,Ali Raza,ali.raza@gmailcom,2023-06-16,HP Laptop,Appliances,,0,islmabad,,Delivered,
+384.0, USMAN MALIK ,.usman.malik.@hotmail.com,07/01/2024,Washing Machine,Applinces,-1.0,0,Multan,Cash,,0.0
+385.0, Fatima Raza ,.fatima.raza.@yahoo.com,03/08/2023,Samsung Galaxy S22,Electronics,1.0,abc,Lahore,Card,Delivered,
+386.0, HINA ZAFAR ,.hina.zafar.@gmail.com,2023-01-11,Samsung Galaxy S22,Appliances,5.0,0,Faisalabad,Cash,Delivered,0.0
+387.0,HASSAN ZAFAR,hassan.zafar@gmial.com,2024-08-06,Samsung Galaxy S22,Electronics,5.0,abc,Islamabad,CARD,Delivered,
+,Ahmed Butt,ahmed.butt@gmailcom,26/08/2024,Washing Machine,Electronics,-1.0,abc,Sargodha,CARD,Pending,
+389.0, AHMED SHEIKH ,.ahmed.sheikh.@hotmail.com,2024-07-24,Samsung Galaxy S22,Electronics,-1.0,0,Multan,,delievered,0.0
+390.0, hina qureshi ,.hina.qureshi.@gmail.com,05-02-2024,McB00k Air,,,abc,karacchi,CARD,,
+,AHMED MALIK,ahmed.malik@gmail.com,2023-06-22,Airpods Pro,Accessories,,106981,Sargodha,cash ,,
+392.0,Hassan Zafar,hassan.zafar@gmailcom,,Washing Machine,Appliances,4.0,abc,karacchi,cash ,Pending,
+, SARA KHAN ,.sara.khan.@gmail.com,01-27-2024,MacBook Air,Applinces,1.0,abc,karacchi,Card,Cancelled,
+,Usman Mirza,usman.mirza@gmial.com,,Samsung Galaxy S22,Accessories,-1.0,121496,Lahore,Card,pendng,-121496.0
+, Hassan Raza ,.hassan.raza.@gmailcom,,Microwave,Applinces,-1.0,148391,islmabad,Cash,delievered,-148391.0
+396.0,Usman Zafar,usman.zafar@hotmail.com,10-19-2023,iPh0ne 14 Pr0,Electronics,-1.0,0,,Cash,,0.0
+397.0,Bilal Malik,bilal.malik@gmailcom,08/11/2024,HP Laptop,Accessories,5.0,abc,Karachi,Bank Transfer,Pending,
+398.0,hina sheikh,hina.sheikh@gmial.com,2023-10-01,Washing Machine,Accessories,,abc,,Cash,delievered,
+399.0,Fatima Sheikh,fatima.sheikh@hotmail.com,11-03-2023,Bluetooth Speaker,,,abc,Multan,Cash,Cancelled,
+,Bilal Butt,bilal.butt@gmial.com,12-11-2023,Samsung Galaxy S22,Applinces,-1.0,abc,Karachi,,Cancelled,
+,Hassan Qureshi,hassan.qureshi@gmailcom,,Microwave,Electronics,5.0,131863,karacchi,Bank Transfer,,659315.0
+,Kashif Qureshi,kashif.qureshi@gmail.com,,MacBook Air,,-1.0,abc,Karachi,,Pending,
+403.0, Hassan Chaudhry ,.hassan.chaudhry.@gmial.com,2023-09-02,MacBook Air,Appliances,-1.0,0,lahor,cash ,,0.0
+404.0,FATIMA RAZA,fatima.raza@hotmail.com,2023-06-30,Washing Machine,Electronics,-1.0,79113,lahor,Bank Transfer,,-79113.0
+,Ahmed Qureshi,ahmed.qureshi@yahoo.com,2024-08-07,Microwave,Applinces,-1.0,131141,Sargodha,CARD,Delivered,-131141.0
+406.0,Ayesha Zafar,ayesha.zafar@yahoo.com,12/08/2023,Samsung Galaxy S22,Accessories,-1.0,0,Lahore,cash ,pendng,0.0
+407.0,Ahmed Sheikh,ahmed.sheikh@yahoo.com,05-29-2023,Washing Machine,Accessories,,0,Lahore,,,
+408.0,hassan saeed,hassan.saeed@gmail.com,,Bluet00th Speker,eletronics,-1.0,24658,Multan,Card,Pending,-24658.0
+409.0, Ayesha Qureshi ,.ayesha.qureshi.@gmail.com,,Bluetooth Speaker,Accessories,4.0,0,Multan,CARD,Delivered,0.0
+410.0,Bilal Zafar,bilal.zafar@hotmail.com,2023-01-29,MacBook Air,,2.0,106031,Multan,Bank Transfer,pendng,212062.0
+411.0,ahmed raza,ahmed.raza@yahoo.com,,Airpods Pro,,-1.0,0,,Bank Transfer,Cancelled,0.0
+412.0,AHMED QURESHI,ahmed.qureshi@gmial.com,24/01/2023,Samsung Galaxy S22,Appliances,,45238,lahor,CARD,delievered,
+,HASSAN RAZA,hassan.raza,,Washing Machine,eletronics,1.0,54253,Multan,Bank Transfer,,54253.0
+414.0, Bilal Raza ,.bilal.raza.@yahoo.com,17/10/2023,Bluetooth Speaker,Appliances,-1.0,69629,,cash ,Pending,-69629.0
+415.0,KASHIF MIRZA,kashif.mirza@gmailcom,,Bluetooth Speaker,Accessories,1.0,147014,Lahore,Bank Transfer,Pending,147014.0
+416.0,Ayesha Zafar,ayesha.zafar@gmial.com,2023-02-16,Smart TV,eletronics,-1.0,98229,islmabad,Cash,pendng,-98229.0
+417.0,Hassan Raza,hassan.raza@gmailcom,,MacBook Air,Accessories,1.0,abc,Faisalabad,cash ,Cancelled,
+418.0,Kashif Chaudhry,kashif.chaudhry@yahoo.com,18/05/2024,Microwave,,4.0,50524,Lahore,Card,Pending,202096.0
+419.0, USMAN CHAUDHRY ,.usman.chaudhry.,,Washing Machine,,2.0,92646,Sargodha,Bank Transfer,Pending,185292.0
+420.0,Hina Chaudhry,hina.chaudhry@yahoo.com,05/01/2023,Bluetooth Speaker,Appliances,,abc,Lahore,Bank Transfer,,
+, ahmed qureshi ,.ahmed.qureshi.@hotmail.com,,Washing Machine,Accessories,,abc,Lahore,,pendng,
+422.0,ayesha zafar,ayesha.zafar@hotmail.com,2023-02-26,Microwave,eletronics,-1.0,67889,Sargodha,cash ,Delivered,-67889.0
+423.0,FATIMA RAZA,fatima.raza@yahoo.com,,Smart TV,Applinces,-1.0,abc,islmabad,Card,delievered,
+424.0, bilal mirza ,.bilal.mirza.@gmailcom,20/09/2024,Bluetooth Speaker,Electronics,,abc,Sargodha,,,
+,Sara Mirza,sara.mirza@gmail.com,2024-03-23,Washing Machine,Appliances,3.0,abc,Multan,CARD,Delivered,
+,Ahmed Khan,ahmed.khan@gmailcom,11-07-2024,Airpods Pro,Electronics,5.0,0,karacchi,Card,Pending,0.0
+427.0,Ali Malik,ali.malik@hotmail.com,,Smart Watch,Accessories,2.0,49519,,Bank Transfer,,99038.0
+428.0, BILAL SAEED ,.bilal.saeed.@gmailcom,,Smart TV,Applinces,,abc,Karachi,Card,Pending,
+429.0,Fatima Malik,fatima.malik@yahoo.com,,MacBook Air,eletronics,5.0,abc,karacchi,Card,delievered,
+430.0,ALI MALIK,ali.malik@gmailcom,05/04/2024,HP Laptop,eletronics,-1.0,3064,lahor,cash ,delievered,-3064.0
+,Kashif Zafar,kashif.zafar@gmail.com,,HP Laptop,Applinces,-1.0,0,Karachi,Bank Transfer,,0.0
+432.0,Usman Malik,usman.malik@hotmail.com,2024-03-22,MacBook Air,Appliances,-1.0,115848,islmabad,Card,pendng,-115848.0
+,Ayesha Zafar,ayesha.zafar@gmailcom,,Bluetooth Speaker,,-1.0,0,Sargodha,Bank Transfer,,0.0
+,AHMED MIRZA,ahmed.mirza@gmail.com,05-20-2024,HP Laptop,Electronics,-1.0,abc,Islamabad,Card,pendng,
+435.0,Ahmed Sheikh,ahmed.sheikh@gmail.com,05-13-2024,Airpods Pro,Electronics,-1.0,0,islmabad,CARD,,0.0
+436.0,Ali Mirza,ali.mirza@gmail.com,2024-09-17,Micr0wve,Electronics,,31948,Faisalabad,Card,,
+437.0,Usman Saeed,usman.saeed@yahoo.com,09/12/2023,Samsung Galaxy S22,eletronics,4.0,abc,Faisalabad,Bank Transfer,pendng,
+438.0,ahmed chaudhry,ahmed.chaudhry@yahoo.com,,HP Lpt0p,eletronics,-1.0,0,Faisalabad,Cash,delievered,0.0
+439.0, Ali Saeed ,.ali.saeed.@hotmail.com,,iPhone 14 Pro,Electronics,,0,islmabad,Bank Transfer,delievered,
+440.0,Hina Chaudhry,hina.chaudhry,14/10/2023,Bluetooth Speaker,Appliances,,0,Faisalabad,,delievered,
+441.0,HASSAN MALIK,hassan.malik@yahoo.com,07-07-2024,HP Lpt0p,Applinces,,0,Islamabad,Cash,Delivered,
+,kashif chaudhry,kashif.chaudhry@gmial.com,03-03-2023,Smart TV,Accessories,1.0,abc,Multan,CARD,,
+443.0,Usman Sheikh,usman.sheikh@gmial.com,04/10/2024,Airpods Pro,,,0,lahor,CARD,,
+444.0, Ahmed Sheikh ,.ahmed.sheikh.@hotmail.com,,Bluet00th Speker,Electronics,4.0,125846,karacchi,Cash,Cancelled,503384.0
+,Hina Qureshi,hina.qureshi@gmailcom,,Bluetooth Speaker,,,110293,Islamabad,CARD,Pending,
+446.0,Usman Raza,usman.raza@gmial.com,,Wshing Mchine,Appliances,-1.0,0,lahor,Cash,Delivered,0.0
+447.0,KASHIF CHAUDHRY,kashif.chaudhry@hotmail.com,2024-05-12,McB00k Air,Applinces,4.0,abc,Sargodha,Card,,
+448.0, Ali Malik ,.ali.malik.@gmail.com,08-09-2024,Smart Watch,Accessories,-1.0,35815,islmabad,,delievered,-35815.0
+449.0,Usman Raza,usman.raza@gmial.com,,HP Laptop,Accessories,5.0,0,Multan,,Delivered,0.0
+450.0,Ali Zafar,ali.zafar@hotmail.com,2023-05-07,HP Laptop,Applinces,5.0,137774,karacchi,CARD,Delivered,688870.0
+451.0, Hina Raza ,.hina.raza.@yahoo.com,,Samsung Galaxy S22,Applinces,-1.0,abc,Lahore,Bank Transfer,delievered,
+452.0,Bilal Khan,bilal.khan@hotmail.com,12/04/2023,Smrt TV,Accessories,1.0,abc,Islamabad,Cash,pendng,
+453.0, Sara Khan ,.sara.khan.@gmail.com,02-27-2024,Smart TV,Electronics,1.0,0,,Card,delievered,0.0
+, Hina Qureshi ,.hina.qureshi.@hotmail.com,2024-02-21,Wshing Mchine,,2.0,0,,,Delivered,0.0
+455.0, HINA RAZA ,.hina.raza.@gmial.com,05-26-2023,Microwave,Appliances,-1.0,abc,Lahore,Cash,delievered,
+,hassan raza,hassan.raza@gmial.com,,Airpods Pro,Appliances,,74744,Islamabad,,pendng,
+,ahmed chaudhry,ahmed.chaudhry@gmial.com,18/03/2024,Smart Watch,Accessories,,0,karacchi,Bank Transfer,Pending,
+,ayesha sheikh,ayesha.sheikh@yahoo.com,,iPhone 14 Pro,,-1.0,0,karacchi,cash ,pendng,0.0
+459.0,ahmed saeed,ahmed.saeed@gmail.com,01-21-2024,Bluetooth Speaker,,1.0,abc,Sargodha,cash ,Delivered,
+460.0,Ali Chaudhry,ali.chaudhry@yahoo.com,09-20-2024,HP Laptop,eletronics,3.0,abc,,Card,Delivered,
+461.0,Bilal Malik,bilal.malik@gmailcom,18/07/2023,Samsung Galaxy S22,,1.0,0,Sargodha,CARD,,0.0
+462.0,Fatima Khan,fatima.khan@gmial.com,,iPhone 14 Pro,,-1.0,abc,Multan,Cash,,
+,usman mirza,usman.mirza,,Airp0ds Pr0,Appliances,3.0,0,Sargodha,,delievered,0.0
+464.0,FATIMA BUTT,fatima.butt,2024-03-18,Smart Watch,Accessories,3.0,abc,Sargodha,Bank Transfer,Delivered,
+465.0,Hina Butt,hina.butt@gmial.com,,Smrt Wtch,Electronics,-1.0,0,Karachi,Card,Delivered,0.0
+466.0,Ali Chaudhry,ali.chaudhry@gmail.com,2024-07-26,Smart TV,eletronics,,108769,,,pendng,
+467.0,Usman Qureshi,usman.qureshi@gmial.com,2023-12-14,Washing Machine,Applinces,2.0,27919,,,Delivered,55838.0
+,fatima zafar,fatima.zafar@gmailcom,31/03/2024,HP Lpt0p,Electronics,1.0,0,lahor,CARD,,0.0
+469.0,Hassan Zafar,hassan.zafar@yahoo.com,09-09-2024,Smart TV,Electronics,,38906,Sargodha,CARD,pendng,
+470.0,BILAL SHEIKH,bilal.sheikh@gmail.com,,Washing Machine,Accessories,,0,Multan,cash ,Cancelled,
+471.0,Ahmed Mirza,ahmed.mirza@gmailcom,04/01/2023,HP Laptop,Appliances,-1.0,0,lahor,Card,delievered,0.0
+472.0,ALI SHEIKH,ali.sheikh@yahoo.com,07-19-2023,iPhone 14 Pro,Appliances,-1.0,46651,Multan,,Pending,-46651.0
+473.0,HINA BUTT,hina.butt,24/11/2024,Bluetooth Speaker,Electronics,3.0,abc,Sargodha,Bank Transfer,Cancelled,
+,Sara Saeed,sara.saeed@gmailcom,2023-03-08,MacBook Air,Appliances,2.0,abc,Faisalabad,Bank Transfer,pendng,
+475.0,Fatima Khan,fatima.khan@gmial.com,06-02-2023,HP Lpt0p,Accessories,,129185,Karachi,cash ,,
+,Ahmed Raza,ahmed.raza@gmial.com,,MacBook Air,Accessories,,0,karacchi,cash ,Cancelled,
+, Bilal Zafar ,.bilal.zafar.@yahoo.com,,HP Laptop,eletronics,5.0,abc,islmabad,Cash,Pending,
+478.0, Hassan Mirza ,.hassan.mirza.@gmail.com,09-28-2024,Bluetooth Speaker,eletronics,-1.0,abc,Multan,cash ,Delivered,
+479.0,USMAN BUTT,usman.butt@hotmail.com,2024-06-09,Smart TV,Electronics,1.0,95433,islmabad,Card,Cancelled,95433.0
+480.0,ayesha chaudhry,ayesha.chaudhry@hotmail.com,10/09/2024,Microwave,Electronics,-1.0,abc,lahor,CARD,,
+481.0,Usman Saeed,usman.saeed@gmailcom,,HP Laptop,Applinces,,abc,Karachi,Bank Transfer,Pending,
+482.0,Bilal Butt,bilal.butt@gmail.com,14/08/2024,Smart TV,Electronics,,abc,Sargodha,cash ,delievered,
+,bilal saeed,bilal.saeed@gmail.com,06-07-2023,Smart Watch,Applinces,,abc,Sargodha,cash ,Delivered,
+,Bilal Butt,bilal.butt@gmailcom,2023-11-08,McB00k Air,Applinces,2.0,129087,Islamabad,Card,Delivered,258174.0
+485.0, hassan butt ,.hassan.butt.@gmail.com,12/01/2023,Airpods Pro,eletronics,4.0,30030,islmabad,cash ,delievered,120120.0
+,Ahmed Qureshi,ahmed.qureshi@yahoo.com,,Washing Machine,Applinces,,0,karacchi,Bank Transfer,Pending,
+487.0,SARA MIRZA,sara.mirza@gmial.com,,Washing Machine,Electronics,-1.0,abc,Multan,cash ,pendng,
+488.0,bilal butt,bilal.butt@gmailcom,2023-07-07,Bluetooth Speaker,Electronics,2.0,0,islmabad,Bank Transfer,,0.0
+489.0,Fatima Mirza,fatima.mirza@gmail.com,2023-03-20,Microwave,Accessories,-1.0,abc,Sargodha,CARD,Delivered,
+490.0,Ali Malik,ali.malik@gmailcom,13/02/2024,Bluet00th Speker,Accessories,,abc,karacchi,cash ,delievered,
+491.0,Ahmed Saeed,ahmed.saeed@gmailcom,13/10/2023,MacBook Air,Applinces,1.0,78108,islmabad,,delievered,78108.0
+492.0, Ahmed Khan ,.ahmed.khan.@hotmail.com,05/02/2023,Washing Machine,,,abc,Multan,cash ,Delivered,
+,Ali Khan,ali.khan@yahoo.com,02/09/2023,Smsung Glxy S22,Electronics,-1.0,0,Karachi,Card,Delivered,0.0
+,sara raza,sara.raza@hotmail.com,14/07/2023,Microwave,eletronics,1.0,57041,Faisalabad,Bank Transfer,Pending,57041.0
+495.0, BILAL SHEIKH ,.bilal.sheikh.@hotmail.com,2024-01-13,Samsung Galaxy S22,eletronics,,131960,islmabad,CARD,Pending,
+496.0,ahmed zafar,ahmed.zafar@yahoo.com,10-12-2024,Wshing Mchine,Electronics,,abc,islmabad,,,
+497.0, Hina Zafar ,.hina.zafar.@gmail.com,05-08-2023,HP Laptop,Appliances,5.0,16708,Faisalabad,cash ,Cancelled,83540.0
+498.0,SARA QURESHI,sara.qureshi@gmial.com,03-30-2024,MacBook Air,,,0,Multan,Cash,Pending,
+,ayesha sheikh,ayesha.sheikh@yahoo.com,13/12/2024,Smart Watch,Applinces,3.0,0,Lahore,Cash,delievered,0.0
+500.0, Fatima Khan ,.fatima.khan.@yahoo.com,27/06/2023,HP Laptop,eletronics,-1.0,0,Sargodha,Card,delievered,0.0
+501.0,kashif butt,kashif.butt@yahoo.com,2024-05-07,Airpods Pro,Appliances,-1.0,0,,,delievered,0.0
+502.0,Usman Khan,usman.khan@gmail.com,04/11/2023,Microwave,Accessories,-1.0,abc,Multan,cash ,pendng,
+, usman malik ,.usman.malik.,05-27-2024,Washing Machine,eletronics,,abc,karacchi,Bank Transfer,,
+,Ahmed Qureshi,ahmed.qureshi@gmail.com,02/08/2024,HP Laptop,Accessories,,0,Faisalabad,,Delivered,
+, Bilal Qureshi ,.bilal.qureshi.@gmail.com,2024-01-06,MacBook Air,eletronics,-1.0,0,,,Pending,0.0
+506.0,Ahmed Malik,ahmed.malik@gmailcom,24/03/2023,Bluetooth Speaker,eletronics,,0,islmabad,,delievered,
+,Hassan Qureshi,hassan.qureshi@gmail.com,08-09-2024,MacBook Air,Appliances,,81766,Islamabad,cash ,Delivered,
+508.0,Ahmed Qureshi,ahmed.qureshi@gmailcom,19/01/2024,MacBook Air,Appliances,5.0,0,Sargodha,Card,Pending,0.0
+509.0,sara butt,sara.butt@gmial.com,13/10/2024,Samsung Galaxy S22,eletronics,-1.0,abc,Lahore,CARD,Pending,
+510.0,USMAN MALIK,usman.malik@gmial.com,2023-02-12,HP Laptop,Electronics,,abc,karacchi,cash ,Cancelled,
+,bilal sheikh,bilal.sheikh@yahoo.com,,Bluetooth Speaker,Accessories,3.0,abc,lahor,,Pending,
+512.0, Kashif Malik ,.kashif.malik.@yahoo.com,,Microwave,Appliances,,85458,Faisalabad,Cash,,
+513.0,Usman Butt,usman.butt@gmial.com,,Washing Machine,,,abc,,Card,,
+514.0,Hina Zafar,hina.zafar@gmail.com,03-31-2023,Microwave,eletronics,-1.0,abc,islmabad,Card,Pending,
+515.0, sara malik ,.sara.malik.@hotmail.com,15/10/2023,Smart TV,,,0,karacchi,Cash,,
+516.0,Fatima Zafar,fatima.zafar@hotmail.com,,HP Laptop,Electronics,3.0,30198,Faisalabad,,pendng,90594.0
+517.0,ahmed zafar,ahmed.zafar@gmial.com,2023-11-15,Smart Watch,eletronics,-1.0,0,Islamabad,CARD,,0.0
+,KASHIF BUTT,kashif.butt@hotmail.com,31/10/2023,Washing Machine,Appliances,-1.0,0,Lahore,CARD,Cancelled,0.0
+519.0,hina malik,hina.malik@yahoo.com,,iPhone 14 Pro,Accessories,,0,Sargodha,,,
+520.0, Sara Mirza ,.sara.mirza.@yahoo.com,,Airpods Pro,eletronics,-1.0,103514,islmabad,,Cancelled,-103514.0
+521.0,FATIMA SAEED,fatima.saeed@gmial.com,02-25-2023,Washing Machine,Applinces,-1.0,abc,Islamabad,Card,Pending,
+, fatima khan ,.fatima.khan.@yahoo.com,13/03/2024,iPh0ne 14 Pr0,eletronics,2.0,0,Faisalabad,CARD,delievered,0.0
+523.0,BILAL BUTT,bilal.butt@gmial.com,,Samsung Galaxy S22,,-1.0,abc,Lahore,Cash,Delivered,
+524.0,Ahmed Mirza,ahmed.mirza,,Smart TV,Electronics,5.0,abc,lahor,Bank Transfer,pendng,
+525.0,ahmed sheikh,ahmed.sheikh@yahoo.com,2024-12-18,Bluetooth Speaker,Applinces,-1.0,0,,CARD,,0.0
+,Ahmed Butt,ahmed.butt@yahoo.com,12/12/2024,iPhone 14 Pro,Accessories,1.0,0,Sargodha,,Pending,0.0
+527.0, Hina Chaudhry ,.hina.chaudhry.@gmail.com,08/01/2024,Bluetooth Speaker,,1.0,79800,islmabad,Bank Transfer,,79800.0
+,Usman Raza,usman.raza@gmial.com,27/12/2023,Samsung Galaxy S22,Electronics,2.0,50302,Multan,Card,Pending,100604.0
+, Hina Butt ,.hina.butt.@gmial.com,07-17-2024,Smart TV,Appliances,-1.0,abc,lahor,,Pending,
+, Fatima Malik ,.fatima.malik.@yahoo.com,31/07/2024,Bluetooth Speaker,Accessories,-1.0,0,Sargodha,Cash,Cancelled,0.0
+531.0,Hina Malik,hina.malik@hotmail.com,01-07-2024,Smrt TV,Appliances,3.0,abc,Sargodha,cash ,Delivered,
+532.0,Sara Saeed,sara.saeed@gmailcom,12-24-2023,Microwave,Electronics,1.0,abc,Islamabad,Bank Transfer,,
+,Hina Saeed,hina.saeed@gmailcom,2023-09-23,Microwave,,2.0,0,Multan,Cash,,0.0
+,Ayesha Butt,ayesha.butt@gmailcom,,Microwave,eletronics,,abc,Karachi,Bank Transfer,delievered,
+535.0, AHMED MALIK ,.ahmed.malik.@gmial.com,,iPhone 14 Pro,eletronics,,abc,karacchi,CARD,,
+,Hina Malik,hina.malik@gmail.com,12-20-2024,HP Laptop,,,0,karacchi,Card,,
+,fatima raza,fatima.raza@gmail.com,24/01/2024,Airpods Pro,Accessories,,abc,Multan,cash ,Cancelled,
+538.0,Fatima Khan,fatima.khan@yahoo.com,2024-10-20,Washing Machine,eletronics,-1.0,0,karacchi,Bank Transfer,Cancelled,0.0
+539.0,ahmed khan,ahmed.khan@gmail.com,18/05/2024,Samsung Galaxy S22,Appliances,4.0,128772,Islamabad,,Cancelled,515088.0
+540.0,USMAN QURESHI,usman.qureshi@gmial.com,,Washing Machine,Accessories,4.0,0,Sargodha,Cash,Pending,0.0
+541.0,ali raza,ali.raza@yahoo.com,05-05-2024,Samsung Galaxy S22,Applinces,,abc,lahor,CARD,,
+, BILAL RAZA ,.bilal.raza.@yahoo.com,14/01/2023,iPhone 14 Pro,Accessories,,abc,karacchi,Bank Transfer,Cancelled,
+543.0,AHMED QURESHI,ahmed.qureshi@yahoo.com,04-28-2023,HP Laptop,eletronics,-1.0,0,islmabad,CARD,Pending,0.0
+544.0, KASHIF RAZA ,.kashif.raza.@yahoo.com,2024-03-12,Smart Watch,Electronics,-1.0,abc,Sargodha,Card,Cancelled,
+545.0,Usman Khan,usman.khan@hotmail.com,01-08-2024,Airpods Pro,Appliances,3.0,48645,Lahore,Cash,,145935.0
+,AYESHA BUTT,ayesha.butt@gmailcom,05-18-2024,Airpods Pro,Electronics,,145642,Faisalabad,Bank Transfer,,
+547.0, Kashif Saeed ,.kashif.saeed.@hotmail.com,2024-01-29,Smsung Glxy S22,,5.0,0,Sargodha,Card,,0.0
+548.0,Ahmed Malik,ahmed.malik@hotmail.com,26/07/2023,iPh0ne 14 Pr0,eletronics,,0,Faisalabad,Bank Transfer,delievered,
+,AHMED QURESHI,ahmed.qureshi@gmial.com,06-20-2023,MacBook Air,Applinces,,0,lahor,cash ,,
+,hina malik,hina.malik@gmailcom,06/10/2023,McB00k Air,Applinces,,0,karacchi,CARD,,
+,HINA CHAUDHRY,hina.chaudhry@gmial.com,2023-08-18,Microwave,Electronics,-1.0,abc,Lahore,,Pending,
+552.0,HINA MALIK,hina.malik@hotmail.com,12-23-2024,MacBook Air,Applinces,-1.0,0,Lahore,Bank Transfer,Pending,0.0
+,HASSAN RAZA,hassan.raza@gmial.com,,Smart TV,,,abc,Sargodha,Bank Transfer,Cancelled,
+554.0,KASHIF QURESHI,kashif.qureshi@hotmail.com,2024-05-05,Washing Machine,Appliances,2.0,0,Islamabad,,Cancelled,0.0
+555.0,Hassan Raza,hassan.raza@gmial.com,2023-05-27,Bluetooth Speaker,,4.0,139091,Lahore,CARD,Delivered,556364.0
+556.0,BILAL KHAN,bilal.khan@gmail.com,03-27-2023,MacBook Air,Applinces,1.0,0,Faisalabad,,Delivered,0.0
+557.0,Sara Mirza,sara.mirza@yahoo.com,05/05/2024,HP Lpt0p,,,143504,Lahore,Cash,Delivered,
+,Hassan Malik,hassan.malik,2023-08-18,HP Laptop,Appliances,,76195,lahor,,,
+559.0, Usman Raza ,.usman.raza.@hotmail.com,09-22-2024,Samsung Galaxy S22,Electronics,,40610,lahor,CARD,Cancelled,
+,sara qureshi,sara.qureshi@hotmail.com,04-17-2023,Washing Machine,Accessories,1.0,0,Islamabad,Bank Transfer,Pending,0.0
+561.0, Usman Mirza ,.usman.mirza.@gmailcom,13/10/2023,Samsung Galaxy S22,Appliances,-1.0,abc,karacchi,cash ,delievered,
+,Bilal Zafar,bilal.zafar@yahoo.com,,Microwave,Applinces,5.0,101827,,,delievered,509135.0
+, Kashif Butt ,.kashif.butt.@gmail.com,01-18-2023,Microwave,Appliances,1.0,abc,Islamabad,Bank Transfer,delievered,
+564.0, hina qureshi ,.hina.qureshi.@yahoo.com,13/12/2024,Bluetooth Speaker,,-1.0,0,Karachi,,pendng,0.0
+565.0, Usman Zafar ,.usman.zafar.@hotmail.com,2023-09-08,iPhone 14 Pro,eletronics,2.0,0,Islamabad,,pendng,0.0
+,Hassan Mirza,hassan.mirza@gmail.com,2023-06-09,iPhone 14 Pro,Appliances,5.0,abc,lahor,,delievered,
+,Hassan Zafar,hassan.zafar@gmailcom,2023-10-06,Microwave,Appliances,-1.0,15679,lahor,Card,,-15679.0
+,Kashif Malik,kashif.malik@hotmail.com,,McB00k Air,Accessories,4.0,71757,Karachi,Cash,Cancelled,287028.0
+, AYESHA KHAN ,.ayesha.khan.@yahoo.com,13/11/2023,Microwave,Electronics,-1.0,0,,Cash,pendng,0.0
+570.0, ali khan ,.ali.khan.@hotmail.com,12/02/2024,Airpods Pro,,3.0,abc,lahor,,pendng,
+571.0,hina raza,hina.raza@gmail.com,,Samsung Galaxy S22,Electronics,2.0,0,Islamabad,CARD,pendng,0.0
+,Kashif Saeed,kashif.saeed@yahoo.com,,iPhone 14 Pro,,4.0,0,,Cash,Pending,0.0
+, Usman Malik ,.usman.malik.@hotmail.com,,Samsung Galaxy S22,Appliances,3.0,abc,,Bank Transfer,Cancelled,
+574.0,Ahmed Raza,ahmed.raza@gmailcom,28/03/2024,Samsung Galaxy S22,eletronics,-1.0,abc,lahor,CARD,,
+575.0,Usman Sheikh,usman.sheikh@hotmail.com,,Microwave,,,0,Sargodha,,pendng,
+576.0,SARA MALIK,sara.malik@gmail.com,2024-04-18,Airpods Pro,,-1.0,29604,Islamabad,,Delivered,-29604.0
+577.0, Bilal Butt ,.bilal.butt.@hotmail.com,12/05/2024,Wshing Mchine,eletronics,,abc,Islamabad,,Pending,
+578.0,Kashif Khan,kashif.khan@gmail.com,,Washing Machine,Appliances,,abc,Multan,,Pending,
+579.0,SARA MALIK,sara.malik@gmailcom,21/06/2024,Smart TV,Electronics,-1.0,abc,Islamabad,Card,Cancelled,
+580.0,Usman Mirza,usman.mirza@gmailcom,,iPhone 14 Pro,Applinces,2.0,abc,Faisalabad,Cash,Pending,
+581.0, Sara Mirza ,.sara.mirza.@gmailcom,,MacBook Air,,5.0,10564,Sargodha,cash ,,52820.0
+,SARA ZAFAR,sara.zafar@gmial.com,01-15-2024,iPhone 14 Pro,Accessories,5.0,0,karacchi,cash ,delievered,0.0
+583.0,Ayesha Saeed,ayesha.saeed@hotmail.com,,Bluetooth Speaker,Applinces,5.0,abc,lahor,Bank Transfer,,
+,Bilal Chaudhry,bilal.chaudhry@gmail.com,2023-04-17,iPhone 14 Pro,eletronics,-1.0,143798,karacchi,CARD,pendng,-143798.0
+585.0,hassan qureshi,hassan.qureshi@gmail.com,2024-04-25,Airpods Pro,eletronics,,104758,Faisalabad,Card,pendng,
+586.0,hassan chaudhry,hassan.chaudhry,2024-02-29,iPh0ne 14 Pr0,Accessories,,abc,Islamabad,CARD,delievered,
+587.0,hina qureshi,hina.qureshi@gmial.com,,MacBook Air,Accessories,5.0,115662,Karachi,,Pending,578310.0
+,Ahmed Zafar,ahmed.zafar@hotmail.com,06-12-2023,HP Lpt0p,Electronics,4.0,41120,,,pendng,164480.0
+589.0,kashif qureshi,kashif.qureshi@hotmail.com,30/10/2024,Smart TV,Appliances,-1.0,abc,Karachi,Card,,
+590.0, kashif malik ,.kashif.malik.@yahoo.com,2023-07-04,Samsung Galaxy S22,Accessories,-1.0,abc,Lahore,cash ,Delivered,
+591.0,Ahmed Butt,ahmed.butt@hotmail.com,06/04/2024,MacBook Air,Appliances,,9244,Faisalabad,Bank Transfer,delievered,
+, kashif saeed ,.kashif.saeed.@gmail.com,2023-01-31,Microwave,Appliances,-1.0,31091,Lahore,Bank Transfer,Pending,-31091.0
+593.0,AHMED RAZA,ahmed.raza@hotmail.com,10-29-2024,Washing Machine,eletronics,,105842,Multan,Card,Pending,
+,hassan qureshi,hassan.qureshi@yahoo.com,,Washing Machine,,-1.0,0,lahor,cash ,Pending,0.0
+,Ayesha Sheikh,ayesha.sheikh@gmailcom,02-04-2023,Smart Watch,Applinces,-1.0,105413,Karachi,Card,Cancelled,-105413.0
+596.0,SARA SHEIKH,sara.sheikh@yahoo.com,2023-05-06,Airpods Pro,,3.0,0,Faisalabad,Card,pendng,0.0
+597.0,Bilal Chaudhry,bilal.chaudhry@gmail.com,2024-09-14,Smart Watch,eletronics,-1.0,84917,Sargodha,Cash,delievered,-84917.0
+598.0, Ali Chaudhry ,.ali.chaudhry.@yahoo.com,,HP Laptop,Accessories,,abc,Multan,Card,delievered,
+599.0, hina saeed ,.hina.saeed.@gmail.com,03-01-2024,Smart TV,Accessories,4.0,abc,karacchi,CARD,Delivered,
+600.0,Hassan Mirza,hassan.mirza@gmail.com,2024-09-24,iPhone 14 Pro,Electronics,2.0,0,lahor,Card,Pending,0.0
+601.0,Fatima Sheikh,fatima.sheikh@gmail.com,02-23-2023,iPh0ne 14 Pr0,Accessories,-1.0,0,,cash ,Cancelled,0.0
+, Sara Raza ,.sara.raza.@hotmail.com,,Washing Machine,Applinces,5.0,0,karacchi,Bank Transfer,Cancelled,0.0
+,usman butt,usman.butt@hotmail.com,06/09/2023,Smsung Glxy S22,eletronics,1.0,0,Sargodha,cash ,delievered,0.0
+604.0,usman malik,usman.malik@gmial.com,,MacBook Air,Electronics,2.0,abc,karacchi,CARD,pendng,
+605.0,BILAL BUTT,bilal.butt@gmial.com,,Samsung Galaxy S22,Appliances,-1.0,abc,Lahore,cash ,,
+, usman sheikh ,.usman.sheikh.@gmailcom,,Microwave,eletronics,-1.0,26641,lahor,,delievered,-26641.0
+607.0,Hassan Butt,hassan.butt@gmial.com,,Samsung Galaxy S22,,2.0,58561,Lahore,Cash,pendng,117122.0
+608.0, Fatima Malik ,.fatima.malik.@gmial.com,,Bluet00th Speker,,-1.0,54924,Sargodha,Bank Transfer,,-54924.0
+609.0, Kashif Chaudhry ,.kashif.chaudhry.@gmial.com,,Smart TV,,2.0,0,Karachi,Card,Pending,0.0
+610.0,Usman Raza,usman.raza@gmailcom,07-01-2023,Samsung Galaxy S22,Electronics,-1.0,0,Lahore,cash ,Pending,0.0
+611.0,Ahmed Khan,ahmed.khan@hotmail.com,21/06/2024,MacBook Air,Electronics,,abc,karacchi,,Cancelled,
+,HASSAN MIRZA,hassan.mirza@hotmail.com,,Samsung Galaxy S22,Applinces,1.0,108562,Islamabad,Bank Transfer,delievered,108562.0
+613.0,Fatima Zafar,fatima.zafar@hotmail.com,02/04/2023,Bluetooth Speaker,Accessories,-1.0,139125,Multan,,Cancelled,-139125.0
+614.0,Bilal Zafar,bilal.zafar@hotmail.com,08-16-2024,Smrt Wtch,eletronics,-1.0,76604,Lahore,cash ,,-76604.0
+615.0, Usman Raza ,.usman.raza.@gmial.com,,Smrt TV,Accessories,-1.0,11735,Multan,CARD,Delivered,-11735.0
+616.0,USMAN CHAUDHRY,usman.chaudhry@gmail.com,12-25-2023,Microwave,Applinces,2.0,71954,Sargodha,cash ,pendng,143908.0
+617.0, hassan butt ,.hassan.butt.@gmailcom,04-11-2023,Smart TV,Appliances,-1.0,0,Islamabad,,Pending,0.0
+618.0,Sara Qureshi,sara.qureshi@gmail.com,,Microwave,eletronics,1.0,abc,Faisalabad,CARD,,
+,AYESHA MIRZA,ayesha.mirza,2024-07-26,Bluet00th Speker,Appliances,-1.0,0,islmabad,Bank Transfer,Pending,0.0
+, Hina Zafar ,.hina.zafar.@gmailcom,2024-11-17,Washing Machine,Applinces,4.0,23192,Multan,,Delivered,92768.0
+621.0,Kashif Malik,kashif.malik@hotmail.com,2023-05-05,HP Laptop,Applinces,4.0,0,Islamabad,Bank Transfer,,0.0
+622.0, Ali Mirza ,.ali.mirza.,2024-09-10,Micr0wve,Appliances,-1.0,0,karacchi,cash ,Delivered,0.0
+623.0, Hassan Qureshi ,.hassan.qureshi.@yahoo.com,07-13-2024,Smart Watch,,5.0,114338,Lahore,Card,Pending,571690.0
+,Fatima Raza,fatima.raza@yahoo.com,10-24-2023,Samsung Galaxy S22,eletronics,,abc,lahor,,Delivered,
+625.0, BILAL QURESHI ,.bilal.qureshi.,2023-11-07,Smart Watch,Accessories,-1.0,abc,Lahore,Card,Cancelled,
+,hina butt,hina.butt@gmail.com,06-05-2023,Smart Watch,,-1.0,abc,Karachi,,delievered,
+627.0,Usman Zafar,usman.zafar@gmial.com,06-22-2024,MacBook Air,Applinces,-1.0,106846,Lahore,Cash,,-106846.0
+628.0,Fatima Malik,fatima.malik@gmailcom,26/08/2023,Samsung Galaxy S22,Appliances,-1.0,17874,,Bank Transfer,Delivered,-17874.0
+629.0,Ahmed Mirza,ahmed.mirza@gmail.com,2023-11-25,Washing Machine,,,53359,Multan,cash ,delievered,
+,HASSAN BUTT,hassan.butt@yahoo.com,2023-01-25,HP Lpt0p,Appliances,-1.0,0,islmabad,Cash,Cancelled,0.0
+631.0,HINA MIRZA,hina.mirza@gmial.com,25/09/2024,Samsung Galaxy S22,,4.0,21484,islmabad,Bank Transfer,Delivered,85936.0
+632.0, usman butt ,.usman.butt.@hotmail.com,,Airp0ds Pr0,Appliances,3.0,0,Sargodha,CARD,pendng,0.0
+,Hassan Qureshi,hassan.qureshi@gmail.com,2023-09-27,iPhone 14 Pro,Accessories,-1.0,16569,Sargodha,CARD,,-16569.0
+634.0,Ali Butt,ali.butt@gmial.com,2024-12-20,Airpods Pro,eletronics,,0,karacchi,Card,Cancelled,
+,ali malik,ali.malik@gmailcom,2023-08-22,iPh0ne 14 Pr0,Appliances,,0,Lahore,CARD,delievered,
+636.0,Bilal Qureshi,bilal.qureshi@gmailcom,,Samsung Galaxy S22,Accessories,3.0,abc,Lahore,Card,Pending,
+637.0,kashif khan,kashif.khan@gmial.com,16/01/2023,iPh0ne 14 Pr0,Appliances,4.0,75080,Faisalabad,Bank Transfer,pendng,300320.0
+,FATIMA CHAUDHRY,fatima.chaudhry@gmail.com,10/07/2024,Washing Machine,Accessories,-1.0,abc,islmabad,Bank Transfer,,
+639.0, hina chaudhry ,.hina.chaudhry.@hotmail.com,,Smrt TV,Appliances,5.0,0,islmabad,Card,Delivered,0.0
+640.0,Sara Khan,sara.khan@gmailcom,,iPhone 14 Pro,Applinces,-1.0,23149,Multan,CARD,delievered,-23149.0
+641.0, ALI QURESHI ,.ali.qureshi.@yahoo.com,2024-06-29,Smrt TV,Accessories,,abc,,Card,Delivered,
+642.0,Kashif Qureshi,kashif.qureshi@gmail.com,,Smart TV,Applinces,-1.0,0,Multan,Card,delievered,0.0
+643.0, Fatima Raza ,.fatima.raza.@hotmail.com,09-13-2023,Airpods Pro,Electronics,-1.0,abc,Multan,,pendng,
+644.0,Ahmed Chaudhry,ahmed.chaudhry@hotmail.com,,iPhone 14 Pro,eletronics,-1.0,0,islmabad,Card,delievered,0.0
+645.0,kashif malik,kashif.malik@gmail.com,09-22-2023,Smart TV,Appliances,,46742,,,Delivered,
+646.0,ahmed khan,ahmed.khan,2023-08-22,Smart TV,Electronics,,0,Sargodha,Bank Transfer,Delivered,
+647.0, HINA MIRZA ,.hina.mirza.@gmial.com,,Samsung Galaxy S22,Accessories,2.0,0,Faisalabad,Bank Transfer,delievered,0.0
+, Ayesha Mirza ,.ayesha.mirza.@gmail.com,02-15-2023,MacBook Air,Electronics,,abc,islmabad,,,
+,Kashif Sheikh,kashif.sheikh,,Samsung Galaxy S22,Appliances,,0,lahor,CARD,,
+650.0,Hina Khan,hina.khan@gmial.com,03/10/2023,Smart Watch,Appliances,3.0,95886,karacchi,Bank Transfer,,287658.0
+651.0,Fatima Mirza,fatima.mirza@hotmail.com,2024-07-27,Airpods Pro,Applinces,-1.0,110799,,Card,pendng,-110799.0
+652.0,Bilal Zafar,bilal.zafar@hotmail.com,2023-05-01,Bluetooth Speaker,Appliances,-1.0,52931,karacchi,Cash,Pending,-52931.0
+653.0,Bilal Chaudhry,bilal.chaudhry@gmailcom,2023-05-10,Bluet00th Speker,Appliances,1.0,0,lahor,cash ,Cancelled,0.0
+654.0,BILAL SAEED,bilal.saeed@hotmail.com,2024-09-23,iPh0ne 14 Pr0,Accessories,-1.0,0,lahor,Bank Transfer,delievered,0.0
+,Sara Raza,sara.raza@gmial.com,01-08-2023,Washing Machine,eletronics,,74216,Sargodha,Bank Transfer,delievered,
+656.0,Ali Zafar,ali.zafar@gmial.com,03-12-2024,Airpods Pro,Appliances,2.0,abc,islmabad,Bank Transfer,pendng,
+, AYESHA MALIK ,.ayesha.malik.@gmailcom,06-23-2023,Smart TV,Electronics,,74040,Karachi,Card,pendng,
+, Sara Khan ,.sara.khan.@gmial.com,2023-07-19,Washing Machine,Electronics,3.0,0,lahor,,delievered,0.0
+,SARA MIRZA,sara.mirza@gmail.com,,Smrt TV,Appliances,,abc,Karachi,,Pending,
+,AHMED SHEIKH,ahmed.sheikh@gmial.com,03-17-2023,iPhone 14 Pro,,-1.0,0,Lahore,,,0.0
+661.0,Fatima Raza,fatima.raza@yahoo.com,,MacBook Air,Appliances,-1.0,35548,Karachi,CARD,,-35548.0
+,Fatima Khan,fatima.khan@gmial.com,2023-07-02,Bluetooth Speaker,Applinces,,0,Faisalabad,cash ,pendng,
+,Sara Chaudhry,sara.chaudhry@gmailcom,,Smart Watch,eletronics,3.0,58391,Multan,cash ,delievered,175173.0
+664.0,FATIMA QURESHI,fatima.qureshi@gmail.com,12/02/2024,Washing Machine,eletronics,-1.0,62567,Multan,Bank Transfer,pendng,-62567.0
+665.0,Bilal Khan,bilal.khan@hotmail.com,,Bluetooth Speaker,Electronics,-1.0,abc,Lahore,Bank Transfer,delievered,
+666.0,Fatima Zafar,fatima.zafar@gmail.com,09-20-2024,MacBook Air,Electronics,-1.0,0,Faisalabad,Bank Transfer,pendng,0.0
+667.0,ali saeed,ali.saeed@gmial.com,08-23-2023,MacBook Air,Accessories,4.0,0,Sargodha,Cash,Delivered,0.0
+668.0,Hina Malik,hina.malik@gmail.com,2023-11-05,HP Laptop,,2.0,0,Karachi,cash ,,0.0
+669.0, Sara Chaudhry ,.sara.chaudhry.@gmial.com,2024-03-01,iPhone 14 Pro,Applinces,5.0,0,,cash ,Pending,0.0
+,Hassan Sheikh,hassan.sheikh@hotmail.com,2023-07-27,Smart TV,Applinces,-1.0,abc,Karachi,Card,delievered,
+,hassan mirza,hassan.mirza,,Airpods Pro,,-1.0,0,Lahore,cash ,Pending,0.0
+672.0,Ayesha Mirza,ayesha.mirza@hotmail.com,2024-10-07,Samsung Galaxy S22,Appliances,,66527,Islamabad,cash ,pendng,
+673.0, Hina Zafar ,.hina.zafar.@gmailcom,11-15-2023,McB00k Air,,,107570,Multan,,Pending,
+,Usman Saeed,usman.saeed@yahoo.com,,Microwave,,1.0,0,Karachi,cash ,Pending,0.0
+675.0, Sara Saeed ,.sara.saeed.@gmailcom,2023-04-27,Bluetooth Speaker,,-1.0,0,islmabad,cash ,delievered,0.0
+676.0, Hassan Malik ,.hassan.malik.@hotmail.com,09-21-2024,Smart Watch,Appliances,,0,Faisalabad,CARD,pendng,
+677.0,USMAN MIRZA,usman.mirza@yahoo.com,2024-04-30,Airpods Pro,Appliances,4.0,abc,Sargodha,Card,,
+678.0,HINA MIRZA,hina.mirza@yahoo.com,13/10/2024,Airpods Pro,Appliances,-1.0,0,Multan,Bank Transfer,pendng,0.0
+679.0,Hassan Saeed,hassan.saeed@gmail.com,16/04/2023,Smart TV,Applinces,1.0,0,lahor,Bank Transfer,pendng,0.0
+,Kashif Chaudhry,kashif.chaudhry@gmial.com,29/04/2024,McB00k Air,Appliances,2.0,39401,Islamabad,cash ,Delivered,78802.0
+681.0,ahmed khan,ahmed.khan@gmailcom,2024-05-27,HP Laptop,eletronics,,abc,Multan,CARD,Cancelled,
+,Ahmed Zafar,ahmed.zafar@hotmail.com,,Washing Machine,Accessories,,0,Faisalabad,Card,Delivered,
+683.0, Usman Sheikh ,.usman.sheikh.@gmial.com,,Airpods Pro,,1.0,abc,islmabad,Card,Delivered,
+, HASSAN SHEIKH ,.hassan.sheikh.@gmail.com,02-04-2023,Washing Machine,,-1.0,0,Lahore,,delievered,0.0
+,usman mirza,usman.mirza@gmial.com,02-09-2023,iPhone 14 Pro,,,47375,Karachi,cash ,Delivered,
+686.0, usman khan ,.usman.khan.@yahoo.com,01-18-2023,Airpods Pro,Appliances,,0,Lahore,,delievered,
+687.0, ali malik ,.ali.malik.@hotmail.com,2024-03-30,Smart TV,,-1.0,0,Lahore,Bank Transfer,Cancelled,0.0
+,ayesha malik,ayesha.malik@gmial.com,2023-04-01,Samsung Galaxy S22,Electronics,-1.0,6271,Lahore,Card,,-6271.0
+689.0,Usman Malik,usman.malik@hotmail.com,19/10/2024,MacBook Air,eletronics,3.0,74128,,Bank Transfer,delievered,222384.0
+690.0, Fatima Chaudhry ,.fatima.chaudhry.@hotmail.com,03-26-2024,Samsung Galaxy S22,Applinces,-1.0,abc,Islamabad,Cash,pendng,
+691.0,Sara Saeed,sara.saeed@gmailcom,11-29-2024,HP Laptop,Applinces,,71503,islmabad,Card,Cancelled,
+692.0,USMAN CHAUDHRY,usman.chaudhry@yahoo.com,04-23-2024,Airpods Pro,,5.0,0,Karachi,,Cancelled,0.0
+693.0,Sara Qureshi,sara.qureshi@gmail.com,01-02-2024,MacBook Air,Appliances,-1.0,0,,,delievered,0.0
+, Bilal Mirza ,.bilal.mirza.@hotmail.com,,Smrt TV,Appliances,5.0,abc,Multan,CARD,delievered,
+,Ali Raza,ali.raza@gmial.com,20/06/2024,Smart Watch,Appliances,3.0,abc,Islamabad,Bank Transfer,delievered,
+696.0,SARA MIRZA,sara.mirza@hotmail.com,09/07/2023,HP Laptop,,2.0,abc,Lahore,cash ,Pending,
+697.0,Ahmed Mirza,ahmed.mirza@yahoo.com,,Washing Machine,Electronics,4.0,84455,lahor,Bank Transfer,Cancelled,337820.0
+,BILAL ZAFAR,bilal.zafar,15/09/2024,HP Laptop,Accessories,5.0,105380,Sargodha,Card,delievered,526900.0
+699.0,ALI BUTT,ali.butt@yahoo.com,10-19-2023,Bluetooth Speaker,eletronics,-1.0,111555,Islamabad,cash ,,-111555.0
+,Ahmed Mirza,ahmed.mirza@gmail.com,2024-02-19,MacBook Air,Applinces,-1.0,120194,karacchi,,,-120194.0
+701.0,BILAL KHAN,bilal.khan@gmial.com,04-06-2024,Washing Machine,Applinces,3.0,abc,islmabad,cash ,,
+702.0,sara khan,sara.khan@yahoo.com,,Bluet00th Speker,Accessories,1.0,abc,Faisalabad,Cash,pendng,
+,Ayesha Chaudhry,ayesha.chaudhry@gmail.com,07-03-2023,Airpods Pro,eletronics,-1.0,0,Karachi,Bank Transfer,,0.0
+704.0, HINA QURESHI ,.hina.qureshi.@yahoo.com,03-17-2024,Airpods Pro,,5.0,0,karacchi,Cash,Delivered,0.0
+705.0,ayesha khan,ayesha.khan@gmail.com,03-22-2023,Smart TV,Electronics,,0,Karachi,cash ,Delivered,
+706.0,Kashif Chaudhry,kashif.chaudhry@gmial.com,2023-09-07,Airpods Pro,Appliances,-1.0,abc,islmabad,,Delivered,
+, Bilal Raza ,.bilal.raza.@gmailcom,29/02/2024,Smart TV,Applinces,3.0,59018,Lahore,,Cancelled,177054.0
+708.0,ahmed zafar,ahmed.zafar@gmial.com,09-01-2024,Microwave,Applinces,-1.0,abc,Faisalabad,cash ,Pending,
+709.0, Usman Butt ,.usman.butt.@gmailcom,2023-02-03,Washing Machine,Accessories,1.0,abc,Multan,Bank Transfer,Cancelled,
+710.0,usman khan,usman.khan@gmial.com,01-24-2023,Microwave,Appliances,,abc,,Cash,Delivered,
+711.0,Fatima Butt,fatima.butt@yahoo.com,,Airpods Pro,eletronics,-1.0,abc,Karachi,,,
+,Ayesha Saeed,ayesha.saeed@gmailcom,04-20-2024,Washing Machine,Appliances,-1.0,0,Faisalabad,cash ,,0.0
+713.0,Ahmed Qureshi,ahmed.qureshi@gmailcom,2024-10-13,Smart Watch,Applinces,,0,,,delievered,
+714.0,ayesha zafar,ayesha.zafar@gmail.com,,Microwave,Appliances,-1.0,0,Sargodha,Card,delievered,0.0
+, FATIMA SHEIKH ,.fatima.sheikh.@gmial.com,,HP Laptop,eletronics,,0,Faisalabad,Card,Pending,
+716.0,Ahmed Khan,ahmed.khan@gmailcom,,Samsung Galaxy S22,Accessories,5.0,0,Lahore,cash ,delievered,0.0
+,Ali Chaudhry,ali.chaudhry@gmail.com,,Bluetooth Speaker,Electronics,-1.0,0,Islamabad,Bank Transfer,delievered,0.0
+,Ayesha Raza,ayesha.raza@yahoo.com,2023-12-04,Washing Machine,eletronics,-1.0,abc,karacchi,Bank Transfer,delievered,
+, HASSAN ZAFAR ,.hassan.zafar.@gmial.com,08-15-2023,Smart Watch,Accessories,,0,Multan,cash ,,
+720.0,Hassan Raza,hassan.raza@yahoo.com,01-29-2024,HP Lpt0p,Appliances,-1.0,0,Lahore,Bank Transfer,Cancelled,0.0
+,Hina Saeed,hina.saeed@yahoo.com,21/10/2024,Smart Watch,Accessories,-1.0,abc,Islamabad,CARD,delievered,
+722.0,usman qureshi,usman.qureshi@hotmail.com,06-03-2023,Smart Watch,Electronics,-1.0,abc,,,Delivered,
+,Hina Butt,hina.butt@gmail.com,04-12-2023,Micr0wve,Applinces,,141962,Lahore,cash ,pendng,
+,fatima butt,fatima.butt@yahoo.com,12/04/2024,iPhone 14 Pro,Accessories,-1.0,0,Sargodha,,Delivered,0.0
+725.0,HINA CHAUDHRY,hina.chaudhry@gmial.com,2023-04-11,Airpods Pro,Electronics,-1.0,abc,Karachi,cash ,Pending,
+726.0,HINA ZAFAR,hina.zafar@gmial.com,,HP Laptop,,-1.0,abc,lahor,CARD,Cancelled,
+727.0,Sara Sheikh,sara.sheikh@hotmail.com,28/06/2024,Airpods Pro,Applinces,-1.0,116354,Islamabad,cash ,Delivered,-116354.0
+728.0, Hina Mirza ,.hina.mirza.@gmailcom,,Airpods Pro,Applinces,2.0,29498,Sargodha,Bank Transfer,pendng,58996.0
+729.0,Ayesha Saeed,ayesha.saeed@gmial.com,19/11/2024,Airpods Pro,eletronics,2.0,abc,islmabad,cash ,,
+,BILAL CHAUDHRY,bilal.chaudhry@hotmail.com,11-10-2023,Airpods Pro,Accessories,-1.0,0,lahor,cash ,Delivered,0.0
+731.0,ali qureshi,ali.qureshi,22/12/2024,HP Laptop,Accessories,-1.0,abc,lahor,cash ,Cancelled,
+,Hina Butt,hina.butt@gmailcom,2023-04-20,HP Laptop,,,124174,lahor,,,
+733.0,Fatima Chaudhry,fatima.chaudhry@gmail.com,10-16-2024,Smart TV,eletronics,3.0,124690,Karachi,Bank Transfer,,374070.0
+734.0,Sara Raza,sara.raza@gmial.com,09-09-2023,Smart Watch,,,abc,Lahore,Card,Delivered,
+,Ayesha Sheikh,ayesha.sheikh@yahoo.com,24/04/2024,Washing Machine,Appliances,-1.0,7065,Karachi,,delievered,-7065.0
+736.0,Bilal Mirza,bilal.mirza@gmail.com,06-08-2024,iPhone 14 Pro,Electronics,-1.0,abc,Multan,CARD,Cancelled,
+,Ahmed Malik,ahmed.malik@gmail.com,2024-06-09,Smart Watch,Applinces,2.0,abc,karacchi,cash ,,
+738.0,ayesha malik,ayesha.malik@gmailcom,02-16-2024,iPhone 14 Pro,eletronics,1.0,abc,lahor,Card,Cancelled,
+739.0,Kashif Sheikh,kashif.sheikh@yahoo.com,08-11-2024,Smart Watch,Appliances,-1.0,48601,Lahore,CARD,pendng,-48601.0
+740.0,SARA SAEED,sara.saeed@yahoo.com,07-26-2023,MacBook Air,Accessories,2.0,94151,Islamabad,cash ,Delivered,188302.0
+741.0,Ali Mirza,ali.mirza@yahoo.com,,Bluetooth Speaker,eletronics,5.0,25340,islmabad,CARD,,126700.0
+, Ahmed Raza ,.ahmed.raza.@gmailcom,01-02-2024,Bluetooth Speaker,Electronics,-1.0,abc,islmabad,Cash,delievered,
+743.0,Ali Qureshi,ali.qureshi@gmail.com,2023-11-14,Bluetooth Speaker,,3.0,0,lahor,cash ,Delivered,0.0
+744.0,AYESHA KHAN,ayesha.khan@yahoo.com,,iPh0ne 14 Pr0,Appliances,-1.0,109757,lahor,Card,Pending,-109757.0
+,sara raza,sara.raza@gmail.com,,Airpods Pro,Accessories,-1.0,8465,Faisalabad,Cash,delievered,-8465.0
+746.0,SARA QURESHI,sara.qureshi@gmial.com,2023-04-13,Airpods Pro,Electronics,4.0,abc,karacchi,cash ,pendng,
+747.0, Sara Zafar ,.sara.zafar.@gmailcom,21/09/2023,Airpods Pro,Accessories,,abc,karacchi,,pendng,
+748.0,Sara Butt,sara.butt@yahoo.com,2023-03-26,Bluetooth Speaker,Applinces,1.0,abc,Islamabad,,,
+749.0,Ayesha Mirza,ayesha.mirza@gmial.com,01/10/2023,Airpods Pro,,,0,lahor,,Delivered,
+750.0,SARA KHAN,sara.khan@yahoo.com,,Washing Machine,Appliances,-1.0,119516,karacchi,CARD,Cancelled,-119516.0
+,Usman Malik,usman.malik@gmial.com,12/12/2023,Smart TV,eletronics,-1.0,0,Faisalabad,CARD,Cancelled,0.0
+752.0,Ayesha Qureshi,ayesha.qureshi@yahoo.com,2024-04-13,Samsung Galaxy S22,Accessories,-1.0,abc,lahor,CARD,Delivered,
+,Sara Qureshi,sara.qureshi@gmial.com,27/11/2024,iPhone 14 Pro,,,0,islmabad,CARD,Delivered,
+,ayesha saeed,ayesha.saeed@hotmail.com,27/11/2024,Smart Watch,,,112153,Multan,Cash,delievered,
+755.0,Bilal Saeed,bilal.saeed@gmailcom,2023-11-04,Samsung Galaxy S22,Applinces,3.0,18515,lahor,Card,Pending,55545.0
+756.0,SARA BUTT,sara.butt@gmial.com,2023-12-25,HP Laptop,Accessories,-1.0,0,,,Pending,0.0
+757.0,Usman Raza,usman.raza@gmail.com,06-17-2024,Micr0wve,,-1.0,0,karacchi,Bank Transfer,Delivered,0.0
+,kashif mirza,kashif.mirza@hotmail.com,,Smrt TV,eletronics,,0,karacchi,Bank Transfer,Pending,
+,Ahmed Malik,ahmed.malik@gmial.com,,Bluetooth Speaker,,-1.0,abc,islmabad,Bank Transfer,delievered,
+,HASSAN SHEIKH,hassan.sheikh@yahoo.com,,Smrt TV,,,abc,,CARD,,
+761.0,ali zafar,ali.zafar@gmail.com,01/05/2023,Airpods Pro,,-1.0,0,Lahore,Bank Transfer,,0.0
+762.0, Usman Zafar ,.usman.zafar.@gmailcom,,iPhone 14 Pro,Appliances,,87235,Multan,cash ,Delivered,
+,usman chaudhry,usman.chaudhry@yahoo.com,02-18-2023,Washing Machine,,3.0,0,islmabad,,Cancelled,0.0
+, Bilal Sheikh ,.bilal.sheikh.@gmailcom,12-08-2023,Smart Watch,Appliances,-1.0,0,Karachi,,delievered,0.0
+765.0,Kashif Mirza,kashif.mirza@yahoo.com,,Airpods Pro,eletronics,3.0,abc,Lahore,Cash,Pending,
+,Hassan Saeed,hassan.saeed@gmial.com,2024-02-12,HP Lpt0p,,,abc,Islamabad,,Cancelled,
+,AYESHA QURESHI,ayesha.qureshi@hotmail.com,03-26-2023,HP Laptop,Electronics,,0,Multan,Cash,delievered,
+768.0,Fatima Butt,fatima.butt@yahoo.com,31/10/2023,iPhone 14 Pro,eletronics,-1.0,0,,Card,delievered,0.0
+769.0,hina zafar,hina.zafar@gmailcom,12-24-2024,Smart TV,Accessories,-1.0,abc,Karachi,,Pending,
+770.0, Fatima Saeed ,.fatima.saeed.@gmial.com,07-02-2024,Samsung Galaxy S22,Applinces,,0,islmabad,Card,delievered,
+771.0,Kashif Khan,kashif.khan@gmial.com,2023-06-25,Microwave,,-1.0,0,Islamabad,Cash,,0.0
+772.0,Ahmed Chaudhry,ahmed.chaudhry@gmail.com,,MacBook Air,Appliances,-1.0,0,Multan,Bank Transfer,Pending,0.0
+,hina qureshi,hina.qureshi@hotmail.com,2024-09-16,Airpods Pro,Electronics,5.0,abc,Islamabad,,Pending,
+774.0, Kashif Raza ,.kashif.raza.@gmailcom,2023-12-06,Samsung Galaxy S22,Applinces,-1.0,0,karacchi,Card,Cancelled,0.0
+775.0,ahmed chaudhry,ahmed.chaudhry@gmailcom,,HP Laptop,,-1.0,119417,islmabad,Bank Transfer,Delivered,-119417.0
+, ALI SAEED ,.ali.saeed.,,Smrt TV,Applinces,-1.0,19189,Sargodha,,pendng,-19189.0
+777.0,SARA SAEED,sara.saeed@yahoo.com,10/08/2024,Washing Machine,Appliances,5.0,117681,,Cash,pendng,588405.0
+778.0,hassan chaudhry,hassan.chaudhry@yahoo.com,24/05/2024,Smart Watch,Applinces,-1.0,abc,karacchi,Cash,,
+,AHMED SHEIKH,ahmed.sheikh@gmailcom,2024-02-18,Airp0ds Pr0,eletronics,5.0,137273,Faisalabad,CARD,pendng,686365.0
+, hina saeed ,.hina.saeed.@hotmail.com,07-22-2023,Bluetooth Speaker,eletronics,-1.0,abc,Karachi,Bank Transfer,pendng,
+781.0,kashif qureshi,kashif.qureshi@gmail.com,12/02/2023,Samsung Galaxy S22,Applinces,,0,Faisalabad,,Delivered,
+,Ali Khan,ali.khan@hotmail.com,,Microwave,Appliances,-1.0,12723,Karachi,cash ,Pending,-12723.0
+783.0,Ayesha Malik,ayesha.malik@gmial.com,2023-01-16,Bluetooth Speaker,,-1.0,2242,Faisalabad,Card,delievered,-2242.0
+784.0, AYESHA QURESHI ,.ayesha.qureshi.@hotmail.com,03-08-2024,HP Laptop,,-1.0,abc,lahor,cash ,Cancelled,
+785.0,Usman Chaudhry,usman.chaudhry,04/04/2024,HP Lpt0p,Electronics,1.0,129066,Islamabad,CARD,Cancelled,129066.0
+786.0,HASSAN QURESHI,hassan.qureshi@hotmail.com,,HP Laptop,Applinces,4.0,0,Lahore,cash ,delievered,0.0
+787.0, AHMED BUTT ,.ahmed.butt.@gmail.com,09-22-2024,Washing Machine,eletronics,5.0,133020,Sargodha,,Cancelled,665100.0
+788.0,Kashif Khan,kashif.khan@hotmail.com,,HP Laptop,Electronics,-1.0,abc,islmabad,Cash,Pending,
+789.0,Fatima Sheikh,fatima.sheikh@gmailcom,09-09-2023,Microwave,Applinces,3.0,0,Karachi,cash ,pendng,0.0
+,Ali Zafar,ali.zafar@hotmail.com,2023-05-27,HP Lpt0p,Electronics,5.0,0,Karachi,Card,,0.0
+791.0,kashif saeed,kashif.saeed@gmial.com,,Washing Machine,Appliances,,abc,karacchi,cash ,Pending,
+792.0,HINA SHEIKH,hina.sheikh@gmailcom,06-14-2023,iPhone 14 Pro,Accessories,2.0,abc,islmabad,Card,delievered,
+793.0,Ayesha Butt,ayesha.butt@gmailcom,,Bluetooth Speaker,Accessories,,105564,islmabad,Card,Pending,
+794.0,fatima zafar,fatima.zafar@gmial.com,,Airpods Pro,Appliances,4.0,124268,islmabad,,delievered,497072.0
+795.0,KASHIF QURESHI,kashif.qureshi@yahoo.com,,MacBook Air,Electronics,-1.0,0,Islamabad,Bank Transfer,,0.0
+,Kashif Raza,kashif.raza@yahoo.com,,HP Laptop,Appliances,-1.0,0,Lahore,,Delivered,0.0
+797.0, ahmed khan ,.ahmed.khan.@gmail.com,01/01/2024,MacBook Air,Accessories,-1.0,0,karacchi,cash ,Cancelled,0.0
+, sara chaudhry ,.sara.chaudhry.@yahoo.com,,MacBook Air,,,0,Sargodha,Cash,,
+799.0, Usman Malik ,.usman.malik.@gmailcom,03/05/2024,iPhone 14 Pro,Accessories,,abc,Lahore,cash ,,
+,Ayesha Sheikh,ayesha.sheikh@gmail.com,10-01-2024,Bluetooth Speaker,Electronics,,abc,Karachi,Bank Transfer,pendng,
+801.0,Ali Zafar,ali.zafar@yahoo.com,16/09/2023,Microwave,Applinces,-1.0,84510,Lahore,,Pending,-84510.0
+,Hassan Chaudhry,hassan.chaudhry@gmail.com,,Samsung Galaxy S22,Electronics,,0,,Cash,Cancelled,
+803.0,FATIMA MIRZA,fatima.mirza@gmailcom,,Bluetooth Speaker,Appliances,,0,Sargodha,cash ,Cancelled,
+804.0, Ahmed Mirza ,.ahmed.mirza.@hotmail.com,2023-04-27,MacBook Air,Electronics,2.0,abc,Karachi,Card,pendng,
+805.0,AHMED MALIK,ahmed.malik@gmial.com,,Airpods Pro,Electronics,5.0,0,Islamabad,Card,,0.0
+806.0, Sara Malik ,.sara.malik.@gmailcom,27/08/2023,iPhone 14 Pro,eletronics,,139761,karacchi,Card,,
+807.0,Kashif Raza,kashif.raza@gmial.com,,MacBook Air,Electronics,2.0,70012,islmabad,CARD,Pending,140024.0
+,ahmed malik,ahmed.malik@yahoo.com,10-12-2024,Smart Watch,,3.0,abc,Faisalabad,,Pending,
+, ALI CHAUDHRY ,.ali.chaudhry.@gmailcom,,Samsung Galaxy S22,,4.0,abc,,Bank Transfer,,
+,Kashif Malik,kashif.malik@hotmail.com,05-06-2024,Washing Machine,eletronics,,50882,,Card,Delivered,
+,Ayesha Qureshi,ayesha.qureshi@gmailcom,,McB00k Air,eletronics,4.0,abc,lahor,,Pending,
+812.0,Ayesha Khan,ayesha.khan@yahoo.com,08/07/2023,Smsung Glxy S22,eletronics,-1.0,89425,Lahore,cash ,delievered,-89425.0
+813.0,HASSAN SAEED,hassan.saeed@gmailcom,,iPhone 14 Pro,Electronics,-1.0,0,Multan,Card,Pending,0.0
+, Usman Butt ,.usman.butt.@hotmail.com,12-13-2023,Smart Watch,Electronics,5.0,abc,Faisalabad,,Cancelled,
+,Sara Sheikh,sara.sheikh@gmail.com,03/03/2024,HP Laptop,,-1.0,abc,islmabad,Bank Transfer,pendng,
+816.0,Fatima Raza,fatima.raza@gmial.com,23/08/2023,HP Laptop,eletronics,-1.0,134945,lahor,Card,pendng,-134945.0
+817.0,Ahmed Saeed,ahmed.saeed@hotmail.com,03/02/2024,Smart TV,Accessories,-1.0,65640,Lahore,Bank Transfer,Cancelled,-65640.0
+,USMAN SAEED,usman.saeed@hotmail.com,03/07/2024,HP Laptop,Applinces,5.0,0,Lahore,,Pending,0.0
+,HINA CHAUDHRY,hina.chaudhry@gmail.com,29/07/2023,Smrt TV,,4.0,abc,Islamabad,cash ,,
+820.0,Hina Raza,hina.raza@gmail.com,04-11-2024,HP Laptop,eletronics,3.0,abc,Lahore,Cash,Delivered,
+821.0,HINA MIRZA,hina.mirza,03-20-2024,Bluetooth Speaker,Applinces,,abc,,CARD,Delivered,
+,Ali Raza,ali.raza@yahoo.com,19/06/2024,HP Lpt0p,Accessories,-1.0,abc,Faisalabad,Cash,delievered,
+823.0,Hina Khan,hina.khan@gmailcom,2024-07-15,HP Laptop,Electronics,3.0,63721,islmabad,Cash,Delivered,191163.0
+, FATIMA MIRZA ,.fatima.mirza.@yahoo.com,05-21-2023,Airpods Pro,,4.0,abc,karacchi,Cash,,
+, BILAL SAEED ,.bilal.saeed.@yahoo.com,01-08-2023,Samsung Galaxy S22,Accessories,5.0,105118,Islamabad,CARD,Delivered,525590.0
+,KASHIF CHAUDHRY,kashif.chaudhry@yahoo.com,09-20-2023,HP Laptop,Accessories,4.0,abc,Lahore,cash ,pendng,
+,HINA QURESHI,hina.qureshi@gmail.com,30/07/2023,Smart Watch,Accessories,,abc,karacchi,Cash,,
+,Fatima Zafar,fatima.zafar@yahoo.com,2023-11-14,HP Laptop,Accessories,-1.0,0,Faisalabad,cash ,delievered,0.0
+,Sara Mirza,sara.mirza@yahoo.com,2023-04-20,iPhone 14 Pro,Electronics,3.0,abc,lahor,,pendng,
+830.0,ahmed khan,ahmed.khan@hotmail.com,2024-03-03,Smart TV,Electronics,3.0,abc,Sargodha,Cash,,
+,ALI MIRZA,ali.mirza@gmailcom,08-16-2024,Smrt TV,Applinces,4.0,41185,Karachi,cash ,,164740.0
+832.0,Ali Khan,ali.khan@gmailcom,2023-01-14,Samsung Galaxy S22,Accessories,,126611,Multan,Cash,,
+833.0,Fatima Butt,fatima.butt@gmail.com,,HP Laptop,,-1.0,96429,,Bank Transfer,delievered,-96429.0
+834.0,hina raza,hina.raza@gmial.com,10-16-2024,Bluetooth Speaker,eletronics,-1.0,abc,Islamabad,,delievered,
+,HINA QURESHI,hina.qureshi@yahoo.com,,Washing Machine,,2.0,0,Islamabad,CARD,Cancelled,0.0
+, sara zafar ,.sara.zafar.@gmailcom,2024-03-05,Microwave,Applinces,,abc,islmabad,,Pending,
+,Fatima Sheikh,fatima.sheikh@hotmail.com,,HP Laptop,,,28899,karacchi,Card,,
+838.0,Ali Saeed,ali.saeed@gmail.com,10/11/2023,Bluetooth Speaker,Appliances,,26319,Lahore,Cash,Delivered,
+839.0, ahmed butt ,.ahmed.butt.@hotmail.com,,Airpods Pro,Electronics,-1.0,abc,Faisalabad,Card,Cancelled,
+840.0,Kashif Zafar,kashif.zafar,2024-05-18,Washing Machine,Electronics,,abc,islmabad,Cash,delievered,
+,Kashif Zafar,kashif.zafar@gmailcom,2024-01-25,Washing Machine,Electronics,-1.0,143536,Karachi,Card,,-143536.0
+,AHMED MIRZA,ahmed.mirza,,HP Laptop,Electronics,,0,Lahore,CARD,delievered,
+843.0,Hina Raza,hina.raza@gmailcom,2024-07-02,Smart TV,,-1.0,abc,Multan,Card,Delivered,
+844.0,Kashif Sheikh,kashif.sheikh@gmail.com,12/05/2024,iPhone 14 Pro,,-1.0,abc,Islamabad,Card,Cancelled,
+,KASHIF MIRZA,kashif.mirza@gmail.com,23/05/2023,Smart Watch,eletronics,-1.0,113714,islmabad,,Cancelled,-113714.0
+, Hina Malik ,.hina.malik.@gmailcom,2024-03-08,Smsung Glxy S22,,-1.0,0,Sargodha,Card,Delivered,0.0
+847.0,Sara Malik,sara.malik@gmailcom,07-13-2024,Microwave,Electronics,,109332,islmabad,Cash,Pending,
+848.0, sara chaudhry ,.sara.chaudhry.@gmail.com,2023-01-13,Microwave,Applinces,5.0,80519,Faisalabad,Card,delievered,402595.0
+849.0, Fatima Mirza ,.fatima.mirza.@yahoo.com,2024-10-10,MacBook Air,Applinces,2.0,0,Karachi,CARD,Pending,0.0
+850.0,Bilal Sheikh,bilal.sheikh@gmailcom,2024-03-18,Airpods Pro,Electronics,,abc,karacchi,CARD,Pending,
+,Sara Mirza,sara.mirza@gmailcom,12/10/2024,HP Laptop,Accessories,4.0,0,Lahore,cash ,Delivered,0.0
+, Ahmed Raza ,.ahmed.raza.@hotmail.com,04-20-2024,Smart TV,Applinces,-1.0,0,karacchi,cash ,,0.0
+,Hina Zafar,hina.zafar@yahoo.com,,Airpods Pro,Applinces,-1.0,abc,Multan,CARD,pendng,
+854.0,Ayesha Sheikh,ayesha.sheikh@hotmail.com,07-16-2023,Microwave,Accessories,,0,Sargodha,CARD,Pending,
+,Hassan Butt,hassan.butt@gmial.com,,Smart Watch,Electronics,,65756,,,Cancelled,
+856.0, USMAN SHEIKH ,.usman.sheikh.@gmial.com,16/12/2023,Smart TV,Accessories,-1.0,abc,Lahore,Cash,Pending,
+857.0,Usman Mirza,usman.mirza@hotmail.com,06/03/2024,Smrt TV,eletronics,,abc,lahor,cash ,Cancelled,
+858.0,sara raza,sara.raza@gmail.com,2023-10-12,Microwave,Appliances,,111956,Lahore,,pendng,
+859.0, ali malik ,.ali.malik.@gmailcom,08-14-2023,Microwave,Appliances,2.0,0,Faisalabad,Card,Pending,0.0
+860.0,Fatima Saeed,fatima.saeed@gmail.com,09-20-2024,Wshing Mchine,Appliances,4.0,abc,,Card,Pending,
+861.0,hassan malik,hassan.malik@gmial.com,01/04/2024,HP Lpt0p,Electronics,,abc,Islamabad,,delievered,
+, Bilal Khan ,.bilal.khan.@gmailcom,06-20-2024,Airp0ds Pr0,Applinces,-1.0,0,Sargodha,Bank Transfer,Pending,0.0
+,Ahmed Zafar,ahmed.zafar@yahoo.com,01/08/2023,Airpods Pro,Accessories,,77199,lahor,CARD,delievered,
+864.0, Kashif Butt ,.kashif.butt.@gmail.com,12-20-2023,Bluet00th Speker,eletronics,-1.0,abc,Multan,Bank Transfer,Pending,
+865.0, Ayesha Chaudhry ,.ayesha.chaudhry.@gmial.com,05/09/2024,iPhone 14 Pro,Accessories,1.0,0,Islamabad,Cash,pendng,0.0
+, hina khan ,.hina.khan.@yahoo.com,03-22-2024,MacBook Air,Accessories,,18505,Karachi,CARD,Delivered,
+,Sara Chaudhry,sara.chaudhry@yahoo.com,2023-07-20,Samsung Galaxy S22,Accessories,,abc,islmabad,Bank Transfer,,
+868.0, Sara Saeed ,.sara.saeed.@gmail.com,06-25-2023,Microwave,Applinces,5.0,104233,Islamabad,Cash,delievered,521165.0
+869.0,Sara Butt,sara.butt@gmial.com,18/04/2024,Washing Machine,Electronics,2.0,12081,lahor,Card,Delivered,24162.0
+870.0,Usman Saeed,usman.saeed@gmailcom,,Microwave,Applinces,,abc,islmabad,cash ,Pending,
+, Usman Raza ,.usman.raza.@gmial.com,2023-11-02,Smart Watch,eletronics,-1.0,98943,Faisalabad,cash ,Pending,-98943.0
+872.0,Fatima Qureshi,fatima.qureshi@gmailcom,05-24-2023,Bluetooth Speaker,Electronics,-1.0,abc,lahor,cash ,,
+873.0,Ayesha Butt,ayesha.butt@gmail.com,2023-05-30,Smart TV,Accessories,-1.0,114608,,Bank Transfer,Cancelled,-114608.0
+,hina mirza,hina.mirza@gmail.com,07-18-2023,Microwave,Electronics,,abc,Lahore,Cash,pendng,
+875.0,HINA SHEIKH,hina.sheikh@gmailcom,12-01-2023,Airp0ds Pr0,Applinces,5.0,abc,lahor,CARD,Delivered,
+,Hina Zafar,hina.zafar@yahoo.com,01-22-2024,Washing Machine,,3.0,38279,Karachi,CARD,delievered,114837.0
+877.0,BILAL BUTT,bilal.butt@yahoo.com,,MacBook Air,Applinces,3.0,1148,Islamabad,Cash,Cancelled,3444.0
+, usman malik ,.usman.malik.@gmailcom,,Airpods Pro,Accessories,-1.0,0,Faisalabad,,,0.0
+879.0,Hina Raza,hina.raza@gmial.com,13/10/2023,HP Laptop,eletronics,-1.0,0,Multan,cash ,,0.0
+880.0, ali zafar ,.ali.zafar.@yahoo.com,13/08/2023,Washing Machine,Electronics,,abc,lahor,cash ,pendng,
+881.0,hassan malik,hassan.malik@gmail.com,,Bluetooth Speaker,Appliances,-1.0,abc,Faisalabad,Cash,Cancelled,
+882.0,Usman Mirza,usman.mirza@yahoo.com,08-29-2023,HP Laptop,Appliances,3.0,0,lahor,Cash,Delivered,0.0
+883.0,AHMED KHAN,ahmed.khan@yahoo.com,,McB00k Air,Accessories,,0,,Cash,Delivered,
+884.0, hassan sheikh ,.hassan.sheikh.@gmail.com,16/07/2023,Bluetooth Speaker,eletronics,-1.0,0,islmabad,Cash,pendng,0.0
+885.0,Sara Malik,sara.malik@yahoo.com,2024-12-17,Washing Machine,,3.0,abc,Islamabad,,delievered,
+886.0,ayesha saeed,ayesha.saeed@gmailcom,08-29-2023,Airpods Pro,eletronics,,41689,Karachi,Cash,pendng,
+887.0, Sara Malik ,.sara.malik.@gmail.com,12-07-2023,Smart Watch,eletronics,-1.0,0,islmabad,,pendng,0.0
+888.0,Fatima Mirza,fatima.mirza@gmailcom,2023-03-09,iPhone 14 Pro,Accessories,4.0,abc,lahor,,Cancelled,
+889.0,Sara Sheikh,sara.sheikh@hotmail.com,03/08/2024,iPhone 14 Pro,Appliances,-1.0,abc,Faisalabad,Card,Delivered,
+890.0,Fatima Saeed,fatima.saeed@yahoo.com,2024-03-03,iPhone 14 Pro,,,abc,Lahore,Cash,delievered,
+,fatima butt,fatima.butt@gmial.com,05/02/2024,Bluetooth Speaker,,-1.0,abc,islmabad,cash ,Delivered,
+892.0,Ayesha Khan,ayesha.khan@gmail.com,,Smart Watch,Accessories,5.0,abc,Multan,,Delivered,
+893.0, KASHIF CHAUDHRY ,.kashif.chaudhry.@yahoo.com,05/04/2024,Bluet00th Speker,Electronics,-1.0,0,lahor,Cash,pendng,0.0
+,Hassan Zafar,hassan.zafar@gmial.com,11-08-2024,Samsung Galaxy S22,eletronics,,87137,islmabad,,Pending,
+895.0,BILAL MALIK,bilal.malik@gmail.com,22/09/2023,Smart TV,eletronics,-1.0,0,Islamabad,Bank Transfer,Delivered,0.0
+896.0,Hassan Saeed,hassan.saeed@gmail.com,2023-05-05,HP Lpt0p,Accessories,2.0,abc,Karachi,CARD,pendng,
+897.0,Hina Malik,hina.malik@gmail.com,04-05-2023,MacBook Air,Appliances,-1.0,0,Karachi,Cash,Pending,0.0
+898.0,Ayesha Raza,ayesha.raza@yahoo.com,10-08-2024,iPhone 14 Pro,eletronics,4.0,abc,Sargodha,Card,Pending,
+, Usman Zafar ,.usman.zafar.@yahoo.com,,Bluetooth Speaker,Accessories,2.0,abc,Sargodha,Cash,pendng,
+900.0,Ali Sheikh,ali.sheikh@gmail.com,2024-04-19,MacBook Air,Applinces,,0,Islamabad,cash ,delievered,
+,hina sheikh,hina.sheikh@hotmail.com,,Smrt TV,Electronics,-1.0,0,Multan,cash ,Pending,0.0
+902.0,Ayesha Qureshi,ayesha.qureshi@hotmail.com,11-12-2023,Bluet00th Speker,Accessories,3.0,25399,islmabad,CARD,pendng,76197.0
+903.0,AYESHA MALIK,ayesha.malik@gmail.com,2023-08-06,HP Lpt0p,Accessories,,0,islmabad,CARD,,
+, Hassan Saeed ,.hassan.saeed.@gmailcom,02-11-2023,Bluet00th Speker,Accessories,,14645,Karachi,Cash,pendng,
+905.0,ahmed mirza,ahmed.mirza@gmail.com,28/08/2024,Samsung Galaxy S22,Appliances,,0,Lahore,cash ,Pending,
+,Sara Raza,sara.raza@gmial.com,2024-02-22,Microwave,Applinces,-1.0,144540,Lahore,cash ,Pending,-144540.0
+, Bilal Butt ,.bilal.butt.@yahoo.com,,Smart Watch,Appliances,5.0,abc,,cash ,Delivered,
+908.0, BILAL ZAFAR ,.bilal.zafar.@yahoo.com,2024-08-17,HP Lpt0p,Electronics,2.0,0,Karachi,,delievered,0.0
+909.0,Fatima Chaudhry,fatima.chaudhry@yahoo.com,2024-12-13,Bluet00th Speker,Appliances,4.0,0,Karachi,Bank Transfer,Cancelled,0.0
+910.0,Bilal Saeed,bilal.saeed@yahoo.com,30/05/2023,Bluetooth Speaker,,-1.0,abc,lahor,Cash,Cancelled,
+911.0,bilal mirza,bilal.mirza@gmailcom,,Samsung Galaxy S22,Appliances,-1.0,abc,Lahore,cash ,pendng,
+912.0,kashif mirza,kashif.mirza@hotmail.com,02-04-2024,MacBook Air,eletronics,2.0,0,karacchi,cash ,Pending,0.0
+,hina raza,hina.raza@gmail.com,11-05-2024,Bluet00th Speker,Applinces,1.0,abc,Sargodha,,pendng,
+,Kashif Saeed,kashif.saeed,01-21-2023,Microwave,Accessories,-1.0,51703,Karachi,,Cancelled,-51703.0
+, Bilal Chaudhry ,.bilal.chaudhry.@yahoo.com,11-16-2024,Samsung Galaxy S22,Applinces,2.0,86122,Faisalabad,Bank Transfer,delievered,172244.0
+916.0,Hina Sheikh,hina.sheikh,2023-03-20,Smart Watch,Appliances,4.0,abc,lahor,CARD,,
+917.0, Ahmed Saeed ,.ahmed.saeed.@yahoo.com,2023-04-10,Smrt TV,Applinces,4.0,0,,cash ,Pending,0.0
+918.0, Ayesha Butt ,.ayesha.butt.@hotmail.com,03/07/2024,iPhone 14 Pro,Accessories,5.0,abc,Sargodha,cash ,Cancelled,
+919.0,Ahmed Saeed,ahmed.saeed,12-14-2024,Airpods Pro,Applinces,2.0,0,,Cash,,0.0
+920.0, Fatima Raza ,.fatima.raza.@gmail.com,20/07/2023,HP Lpt0p,eletronics,,118825,,Card,Delivered,
+921.0,Fatima Sheikh,fatima.sheikh@hotmail.com,18/03/2024,Samsung Galaxy S22,Appliances,-1.0,2998,Faisalabad,Cash,pendng,-2998.0
+922.0, BILAL MALIK ,.bilal.malik.@gmailcom,23/08/2023,Smart TV,,,0,,Bank Transfer,delievered,
+923.0, Kashif Saeed ,.kashif.saeed.@gmailcom,,Smart TV,Applinces,,6250,lahor,Bank Transfer,delievered,
+, Usman Malik ,.usman.malik.@yahoo.com,2023-08-24,Microwave,,,36446,islmabad,Card,pendng,
+925.0,Sara Butt,sara.butt@gmial.com,17/03/2023,Microwave,Accessories,,abc,Multan,Bank Transfer,pendng,
+926.0,Sara Khan,sara.khan@yahoo.com,2023-08-14,Micr0wve,eletronics,-1.0,144321,Faisalabad,cash ,Pending,-144321.0
+,hassan sheikh,hassan.sheikh@gmail.com,2023-02-01,Airpods Pro,,5.0,0,Sargodha,cash ,Delivered,0.0
+928.0,hina sheikh,hina.sheikh@gmail.com,12-28-2023,Bluetooth Speaker,Applinces,-1.0,69368,Karachi,CARD,Pending,-69368.0
+,Kashif Saeed,kashif.saeed@gmail.com,2023-10-23,Airpods Pro,Electronics,-1.0,123503,Lahore,CARD,Delivered,-123503.0
+930.0, hassan butt ,.hassan.butt.@gmial.com,,Bluetooth Speaker,Appliances,4.0,0,Sargodha,Bank Transfer,Cancelled,0.0
+,ALI SHEIKH,ali.sheikh@gmail.com,,iPhone 14 Pro,Appliances,,abc,,Bank Transfer,Delivered,
+,HINA RAZA,hina.raza@gmail.com,2023-09-16,Microwave,,-1.0,0,Islamabad,CARD,delievered,0.0
+933.0, fatima saeed ,.fatima.saeed.@gmail.com,06/09/2023,Smsung Glxy S22,eletronics,,0,Islamabad,CARD,pendng,
+,HASSAN QURESHI,hassan.qureshi@yahoo.com,,HP Lpt0p,Accessories,-1.0,abc,Multan,,delievered,
+935.0,Ayesha Sheikh,ayesha.sheikh@gmail.com,08-23-2023,Airpods Pro,Appliances,3.0,0,Karachi,cash ,delievered,0.0
+936.0,Bilal Chaudhry,bilal.chaudhry@gmial.com,24/01/2023,Samsung Galaxy S22,Applinces,,abc,Faisalabad,,Pending,
+937.0,Kashif Khan,kashif.khan@hotmail.com,02-28-2023,HP Laptop,Appliances,-1.0,0,Multan,CARD,Cancelled,0.0
+,Ahmed Qureshi,ahmed.qureshi@gmail.com,,Microwave,Electronics,5.0,53066,,Cash,,265330.0
+,FATIMA MIRZA,fatima.mirza,2024-02-21,Samsung Galaxy S22,Applinces,-1.0,abc,Karachi,cash ,pendng,
+940.0, Hina Saeed ,.hina.saeed.@yahoo.com,2023-01-28,Smrt Wtch,eletronics,,0,islmabad,Cash,Pending,
+,Bilal Sheikh,bilal.sheikh@hotmail.com,2024-09-02,Bluetooth Speaker,Applinces,-1.0,0,Faisalabad,Card,Delivered,0.0
+942.0,HASSAN ZAFAR,hassan.zafar@gmial.com,07-06-2024,HP Laptop,Applinces,-1.0,0,Islamabad,cash ,Pending,0.0
+943.0,Sara Butt,sara.butt@gmail.com,10-09-2023,Airpods Pro,Electronics,3.0,78056,islmabad,CARD,delievered,234168.0
+,Ali Sheikh,ali.sheikh@hotmail.com,,Bluetooth Speaker,,,26161,Islamabad,cash ,Delivered,
+945.0, Fatima Khan ,.fatima.khan.@gmailcom,2024-09-14,iPhone 14 Pro,,4.0,0,Sargodha,Cash,Pending,0.0
+946.0,hassan sheikh,hassan.sheikh@yahoo.com,,Washing Machine,Applinces,,0,Multan,Bank Transfer,,
+947.0,ahmed butt,ahmed.butt@gmailcom,12-17-2023,HP Laptop,,,139571,lahor,Cash,Pending,
+948.0, Ayesha Zafar ,.ayesha.zafar.@hotmail.com,2024-12-11,Smart Watch,Applinces,,abc,Multan,CARD,Pending,
+949.0, Usman Chaudhry ,.usman.chaudhry.@gmial.com,,Smart Watch,eletronics,,120590,islmabad,Bank Transfer,Pending,
+, ayesha zafar ,.ayesha.zafar.@hotmail.com,2023-10-29,Microwave,Applinces,5.0,46907,Karachi,Card,Pending,234535.0
+951.0,Sara Qureshi,sara.qureshi@gmail.com,2024-12-17,Microwave,eletronics,-1.0,110498,karacchi,Card,,-110498.0
+952.0,Hassan Saeed,hassan.saeed@gmial.com,11-30-2023,HP Laptop,Applinces,,148102,Multan,Cash,Cancelled,
+953.0,Ahmed Raza,ahmed.raza@gmailcom,16/07/2024,Bluetooth Speaker,Accessories,,abc,Multan,Cash,pendng,
+954.0,kashif qureshi,kashif.qureshi,,Samsung Galaxy S22,,2.0,abc,,Bank Transfer,Delivered,
+955.0,FATIMA CHAUDHRY,fatima.chaudhry@hotmail.com,2023-10-06,iPhone 14 Pro,Appliances,4.0,1256,islmabad,cash ,pendng,5024.0
+956.0, Bilal Malik ,.bilal.malik.@gmailcom,2023-03-18,HP Laptop,Accessories,1.0,abc,islmabad,Cash,pendng,
+,hassan malik,hassan.malik@hotmail.com,22/02/2024,Microwave,Applinces,,0,Islamabad,Cash,,
+958.0,fatima chaudhry,fatima.chaudhry@gmial.com,2023-06-16,Washing Machine,,-1.0,0,Islamabad,Bank Transfer,Delivered,0.0
+,Ahmed Mirza,ahmed.mirza@gmailcom,2023-06-14,Smrt TV,Applinces,-1.0,18605,Sargodha,Card,delievered,-18605.0
+960.0,Ahmed Raza,ahmed.raza@yahoo.com,2024-02-15,Washing Machine,Electronics,4.0,54717,Karachi,Cash,pendng,218868.0
+961.0, ali qureshi ,.ali.qureshi.@gmial.com,22/11/2023,Washing Machine,Applinces,-1.0,32788,Sargodha,cash ,Delivered,-32788.0
+,hina chaudhry,hina.chaudhry@yahoo.com,2023-11-27,MacBook Air,Accessories,5.0,abc,Multan,Bank Transfer,Delivered,
+963.0,Usman Butt,usman.butt@gmailcom,21/04/2023,Washing Machine,eletronics,5.0,49928,Lahore,Card,,249640.0
+964.0, Usman Zafar ,.usman.zafar.@yahoo.com,05/03/2024,Smart Watch,,,115800,lahor,Card,pendng,
+965.0,ahmed saeed,ahmed.saeed@gmail.com,,iPhone 14 Pro,,,abc,Karachi,cash ,delievered,
+,Ali Qureshi,ali.qureshi@gmailcom,2023-05-31,Airpods Pro,eletronics,5.0,0,Islamabad,Card,Pending,0.0
+, Ayesha Sheikh ,.ayesha.sheikh.@gmailcom,11-06-2024,iPhone 14 Pro,Applinces,4.0,abc,,Card,,
+968.0,hina raza,hina.raza@gmailcom,2024-08-31,Microwave,,3.0,0,,CARD,Cancelled,0.0
+,ali raza,ali.raza@gmail.com,09/12/2024,Microwave,,,0,Multan,,Pending,
+970.0,Kashif Sheikh,kashif.sheikh@gmial.com,2024-10-24,Smart TV,,,121031,karacchi,Cash,Cancelled,
+971.0,Fatima Saeed,fatima.saeed@yahoo.com,03/11/2024,iPhone 14 Pro,eletronics,-1.0,0,Karachi,,,0.0
+,Usman Mirza,usman.mirza@gmial.com,,Microwave,Appliances,-1.0,0,Sargodha,cash ,,0.0
+973.0, Hina Sheikh ,.hina.sheikh.@yahoo.com,09-01-2023,iPhone 14 Pro,Electronics,-1.0,0,,Bank Transfer,,0.0
+974.0, KASHIF KHAN ,.kashif.khan.@gmial.com,12-17-2023,Smart TV,Applinces,-1.0,104302,Islamabad,Bank Transfer,pendng,-104302.0
+975.0, Sara Butt ,.sara.butt.@gmial.com,,HP Laptop,Appliances,,abc,lahor,Card,Cancelled,
+976.0,Ayesha Raza,ayesha.raza@gmailcom,,MacBook Air,Appliances,,0,Sargodha,Bank Transfer,pendng,
+,ayesha malik,ayesha.malik@gmial.com,01-14-2024,iPhone 14 Pro,eletronics,-1.0,0,Faisalabad,Cash,pendng,0.0
+978.0, Usman Chaudhry ,.usman.chaudhry.@yahoo.com,2024-09-30,Microwave,Electronics,-1.0,127942,Lahore,Card,pendng,-127942.0
+, ayesha zafar ,.ayesha.zafar.@hotmail.com,2023-11-11,Airpods Pro,Electronics,-1.0,54030,Sargodha,,Pending,-54030.0
+980.0,Kashif Butt,kashif.butt@gmial.com,,Airp0ds Pr0,Applinces,3.0,abc,Karachi,Cash,Cancelled,
+981.0,Usman Qureshi,usman.qureshi@gmail.com,,Micr0wve,,-1.0,abc,Faisalabad,Card,Pending,
+,Hina Saeed,hina.saeed@yahoo.com,,Bluet00th Speker,Accessories,,abc,islmabad,cash ,Cancelled,
+983.0,Sara Raza,sara.raza@hotmail.com,11-16-2024,Microwave,,-1.0,abc,,Bank Transfer,Pending,
+,Sara Chaudhry,sara.chaudhry@gmail.com,03-14-2024,iPh0ne 14 Pr0,Electronics,1.0,abc,Faisalabad,,Pending,
+, Fatima Malik ,.fatima.malik.@gmail.com,2023-11-21,HP Lpt0p,Accessories,4.0,137783,lahor,CARD,,551132.0
+986.0,ahmed chaudhry,ahmed.chaudhry@gmailcom,,MacBook Air,,-1.0,0,karacchi,,Cancelled,0.0
+, Bilal Raza ,.bilal.raza.@gmial.com,21/12/2024,Airpods Pro,Electronics,5.0,0,islmabad,Cash,,0.0
+988.0,fatima malik,fatima.malik@gmail.com,2024-10-01,iPhone 14 Pro,Electronics,,abc,Multan,cash ,Pending,
+989.0,hina mirza,hina.mirza@gmailcom,,MacBook Air,Accessories,-1.0,abc,Faisalabad,CARD,,
+990.0,usman raza,usman.raza@hotmail.com,,Bluetooth Speaker,Applinces,,abc,Lahore,CARD,Pending,
+, Usman Malik ,.usman.malik.@gmailcom,,HP Laptop,,5.0,abc,Islamabad,Card,Pending,
+, KASHIF ZAFAR ,.kashif.zafar.@gmail.com,2023-12-01,Smart TV,Applinces,2.0,abc,Faisalabad,,Pending,
+, hina butt ,.hina.butt.@gmail.com,,Washing Machine,eletronics,3.0,0,Faisalabad,Bank Transfer,Cancelled,0.0
+, Usman Zafar ,.usman.zafar.@gmailcom,,iPhone 14 Pro,Appliances,4.0,43490,Faisalabad,Card,,173960.0
+,Usman Saeed,usman.saeed@yahoo.com,01/12/2023,Smart Watch,Applinces,2.0,40122,Karachi,Card,Cancelled,80244.0
+996.0, ALI SAEED ,.ali.saeed.@gmial.com,,Microwave,Applinces,-1.0,0,Faisalabad,,pendng,0.0
+997.0,Sara Butt,sara.butt@gmail.com,11/02/2023,iPhone 14 Pro,Accessories,-1.0,0,,Bank Transfer,Delivered,0.0
+998.0, Ahmed Sheikh ,.ahmed.sheikh.@yahoo.com,2024-08-07,iPhone 14 Pro,,5.0,0,Lahore,Cash,Cancelled,0.0
+999.0,Usman Chaudhry,usman.chaudhry@yahoo.com,2023-07-21,Smart Watch,eletronics,1.0,132036,,Cash,Pending,132036.0
+1000.0, Ali Raza ,.ali.raza.@yahoo.com,,Bluetooth Speaker,,2.0,0,Karachi,Cash,Delivered,0.0
+1001.0, BILAL MALIK ,.bilal.malik.@gmail.com,,HP Laptop,Applinces,2.0,0,Sargodha,cash ,delievered,0.0
+1002.0,FATIMA SAEED,fatima.saeed@hotmail.com,17/04/2023,Smart TV,Electronics,3.0,0,lahor,,pendng,0.0
+1003.0,Ayesha Khan,ayesha.khan@yahoo.com,,McB00k Air,Applinces,,abc,lahor,Cash,,
+,Ali Butt,ali.butt@hotmail.com,,iPhone 14 Pro,Appliances,4.0,abc,Sargodha,cash ,Cancelled,
+,AYESHA SAEED,ayesha.saeed@yahoo.com,2023-09-23,McB00k Air,eletronics,-1.0,abc,,Card,delievered,
+1006.0,HINA MIRZA,hina.mirza@gmailcom,,Bluetooth Speaker,Electronics,4.0,35075,Multan,CARD,,140300.0
+1007.0,ayesha sheikh,ayesha.sheikh@gmail.com,12-28-2024,iPhone 14 Pro,Electronics,,abc,karacchi,CARD,,
+1008.0,Ayesha Qureshi,ayesha.qureshi@gmail.com,08-27-2024,Airpods Pro,Appliances,-1.0,126716,Islamabad,Bank Transfer,delievered,-126716.0
+1009.0, ALI MALIK ,.ali.malik.@gmial.com,2023-08-01,Bluetooth Speaker,Electronics,-1.0,73396,karacchi,Card,delievered,-73396.0
+,ALI SAEED,ali.saeed@hotmail.com,2023-06-01,Samsung Galaxy S22,,-1.0,23134,islmabad,Cash,delievered,-23134.0
+1011.0,ahmed butt,ahmed.butt@gmail.com,10-22-2023,Microwave,eletronics,3.0,106019,Karachi,,Pending,318057.0
+1012.0,Ali Zafar,ali.zafar@gmial.com,,Bluetooth Speaker,eletronics,1.0,0,Lahore,Bank Transfer,Pending,0.0
+,Fatima Zafar,fatima.zafar@gmailcom,,Bluetooth Speaker,Electronics,,0,Sargodha,Card,,
+1014.0,ALI KHAN,ali.khan@gmail.com,2023-12-05,Samsung Galaxy S22,Electronics,,0,karacchi,Cash,Cancelled,
+1015.0,Ali Chaudhry,ali.chaudhry@gmial.com,07-30-2024,Smrt Wtch,Appliances,-1.0,46120,Multan,CARD,pendng,-46120.0
+,ali zafar,ali.zafar@gmailcom,,HP Laptop,Appliances,,0,Karachi,cash ,delievered,
+,hina chaudhry,hina.chaudhry@yahoo.com,2023-10-21,Washing Machine,Accessories,2.0,abc,lahor,Card,Pending,
+,Hina Zafar,hina.zafar@gmail.com,2024-04-01,Samsung Galaxy S22,Accessories,-1.0,37586,Sargodha,cash ,Delivered,-37586.0
+, Usman Saeed ,.usman.saeed.@gmailcom,2023-06-12,Smrt TV,Applinces,1.0,0,,CARD,pendng,0.0
+, Hina Zafar ,.hina.zafar.@gmail.com,2024-03-31,Microwave,Applinces,,134226,Karachi,CARD,delievered,
+1021.0,hassan saeed,hassan.saeed@hotmail.com,,Microwave,Electronics,5.0,17178,Multan,CARD,Delivered,85890.0
+1022.0, Usman Sheikh ,.usman.sheikh.@yahoo.com,2024-01-25,Smart TV,Electronics,1.0,abc,,Bank Transfer,Pending,
+, Bilal Saeed ,.bilal.saeed.@gmailcom,,iPhone 14 Pro,Applinces,3.0,abc,Karachi,CARD,delievered,
+1024.0,ayesha qureshi,ayesha.qureshi@yahoo.com,21/11/2024,Airpods Pro,Accessories,-1.0,105374,Multan,,Delivered,-105374.0
+,Bilal Chaudhry,bilal.chaudhry@gmial.com,,iPhone 14 Pro,Applinces,3.0,abc,Lahore,Card,pendng,
+1026.0,ahmed qureshi,ahmed.qureshi@yahoo.com,02-21-2024,Microwave,Electronics,,abc,islmabad,cash ,pendng,
+,Hina Butt,hina.butt@yahoo.com,,MacBook Air,Applinces,,abc,Lahore,CARD,Delivered,
+1028.0,hassan malik,hassan.malik@yahoo.com,06/09/2024,HP Laptop,Electronics,2.0,0,lahor,Cash,Cancelled,0.0
+1029.0,Fatima Khan,fatima.khan@gmial.com,2023-12-07,MacBook Air,Accessories,-1.0,abc,Karachi,CARD,Delivered,
+1030.0,Ayesha Khan,ayesha.khan,,Bluetooth Speaker,eletronics,,0,Islamabad,,Cancelled,
+,Hina Zafar,hina.zafar@gmial.com,,Washing Machine,Appliances,-1.0,abc,Multan,cash ,pendng,
+1032.0,Fatima Sheikh,fatima.sheikh@gmailcom,,Smart Watch,Applinces,,0,,CARD,delievered,
+1033.0,Hina Qureshi,hina.qureshi@gmail.com,08-25-2024,Airpods Pro,Electronics,1.0,0,,,Pending,0.0
+1034.0,usman sheikh,usman.sheikh@gmail.com,,Samsung Galaxy S22,,1.0,0,lahor,Card,delievered,0.0
+1035.0,Fatima Qureshi,fatima.qureshi@gmail.com,09-24-2023,Airpods Pro,eletronics,4.0,13884,,,,55536.0
+, hassan raza ,.hassan.raza.@gmail.com,,Smart TV,,,abc,karacchi,cash ,Delivered,
+1037.0,bilal chaudhry,bilal.chaudhry@hotmail.com,,Washing Machine,Electronics,-1.0,abc,Sargodha,Card,pendng,
+,ali qureshi,ali.qureshi@gmailcom,14/05/2023,Bluetooth Speaker,Accessories,1.0,0,Faisalabad,CARD,pendng,0.0
+1039.0,fatima khan,fatima.khan@yahoo.com,06-05-2023,MacBook Air,eletronics,-1.0,abc,lahor,Card,Cancelled,
+, AHMED QURESHI ,.ahmed.qureshi.@gmail.com,05-30-2024,Microwave,,4.0,0,Lahore,Cash,delievered,0.0
+,Hina Qureshi,hina.qureshi@gmial.com,23/03/2023,Smart Watch,Accessories,4.0,abc,Islamabad,,delievered,
+1042.0,sara qureshi,sara.qureshi@gmail.com,15/09/2023,Washing Machine,eletronics,,0,Lahore,cash ,pendng,
+1043.0,Sara Sheikh,sara.sheikh@yahoo.com,07/05/2023,Microwave,Accessories,-1.0,13359,lahor,Bank Transfer,Cancelled,-13359.0
+,Ayesha Chaudhry,ayesha.chaudhry@yahoo.com,2023-03-20,MacBook Air,Appliances,-1.0,0,karacchi,,pendng,0.0
+,Ahmed Mirza,ahmed.mirza@yahoo.com,28/10/2023,Washing Machine,Appliances,,0,Islamabad,Cash,delievered,
+1046.0,ali saeed,ali.saeed@gmailcom,02-12-2023,Airpods Pro,Appliances,-1.0,abc,islmabad,CARD,Pending,
+1047.0,KASHIF BUTT,kashif.butt@gmail.com,2024-12-17,Micr0wve,eletronics,-1.0,abc,islmabad,Cash,delievered,
+1048.0,sara chaudhry,sara.chaudhry@hotmail.com,24/02/2023,Microwave,,-1.0,abc,islmabad,Cash,Delivered,
+, Ayesha Butt ,.ayesha.butt.@gmial.com,05-29-2024,Microwave,Applinces,,0,islmabad,CARD,Pending,
+,kashif khan,kashif.khan@yahoo.com,04-18-2023,Washing Machine,Accessories,4.0,10549,,CARD,,42196.0
+1051.0,hassan raza,hassan.raza@yahoo.com,16/06/2023,HP Laptop,Electronics,2.0,abc,Lahore,cash ,Pending,
+,Fatima Raza,fatima.raza@gmail.com,24/07/2024,McB00k Air,Electronics,1.0,49526,Islamabad,Cash,Delivered,49526.0
+1053.0,Hina Qureshi,hina.qureshi@gmail.com,,Bluet00th Speker,Applinces,-1.0,abc,lahor,Cash,Cancelled,
+1054.0, FATIMA SAEED ,.fatima.saeed.@gmail.com,,Smart TV,Applinces,2.0,abc,lahor,CARD,Cancelled,
+,ahmed khan,ahmed.khan@gmailcom,18/02/2024,iPhone 14 Pro,Accessories,,abc,Karachi,Bank Transfer,Delivered,
+,Ali Qureshi,ali.qureshi@gmailcom,2023-04-05,iPhone 14 Pro,eletronics,-1.0,0,Karachi,,Pending,0.0
+1057.0, Ali Mirza ,.ali.mirza.@gmial.com,08-28-2024,Smart Watch,Applinces,5.0,0,Sargodha,cash ,delievered,0.0
+,Fatima Chaudhry,fatima.chaudhry@gmial.com,19/02/2024,Bluetooth Speaker,Electronics,5.0,abc,islmabad,CARD,pendng,
+,Kashif Malik,kashif.malik@gmailcom,03-16-2023,iPhone 14 Pro,Applinces,4.0,abc,Karachi,CARD,delievered,
+1060.0, ALI ZAFAR ,.ali.zafar.@gmailcom,,Microwave,Appliances,4.0,80357,islmabad,Cash,pendng,321428.0
+1061.0,Sara Malik,sara.malik@gmial.com,,Washing Machine,,,abc,Multan,cash ,pendng,
+1062.0,Ahmed Malik,ahmed.malik@gmial.com,,MacBook Air,Appliances,2.0,abc,islmabad,CARD,Delivered,
+1063.0,Ali Chaudhry,ali.chaudhry@yahoo.com,07-20-2024,Smart TV,Electronics,-1.0,133591,Lahore,CARD,Pending,-133591.0
+1064.0,Ayesha Mirza,ayesha.mirza@gmail.com,2023-02-20,Bluetooth Speaker,,-1.0,73118,karacchi,Card,Pending,-73118.0
+1065.0,Hassan Mirza,hassan.mirza@gmial.com,2023-10-14,iPh0ne 14 Pr0,Applinces,5.0,0,Multan,,delievered,0.0
+1066.0, Ahmed Raza ,.ahmed.raza.@gmial.com,2024-01-18,Wshing Mchine,Accessories,,16466,Karachi,CARD,Cancelled,
+1067.0,Kashif Raza,kashif.raza@gmail.com,2024-11-03,Airpods Pro,Electronics,,96086,karacchi,Cash,pendng,
+1068.0,FATIMA KHAN,fatima.khan@hotmail.com,,Smart TV,,,0,Faisalabad,,Cancelled,
+1069.0,Sara Zafar,sara.zafar@gmial.com,02-27-2024,MacBook Air,Accessories,4.0,0,Karachi,CARD,,0.0
+,SARA MIRZA,sara.mirza@yahoo.com,2023-03-14,Smart TV,Appliances,,106717,Islamabad,Cash,delievered,
+1071.0,Fatima Sheikh,fatima.sheikh@yahoo.com,,Micr0wve,Accessories,-1.0,0,lahor,cash ,Pending,0.0
+,Hina Butt,hina.butt@hotmail.com,30/05/2024,Microwave,Appliances,3.0,0,Multan,cash ,Pending,0.0
+,ALI SHEIKH,ali.sheikh@hotmail.com,02-07-2024,Washing Machine,Accessories,-1.0,105088,Sargodha,CARD,Pending,-105088.0
+,ali zafar,ali.zafar@hotmail.com,05-20-2024,iPhone 14 Pro,Applinces,1.0,27143,Karachi,cash ,pendng,27143.0
+1075.0, Ahmed Zafar ,.ahmed.zafar.@hotmail.com,,Bluet00th Speker,,2.0,abc,,Bank Transfer,Pending,
+1076.0,Hassan Malik,hassan.malik@gmail.com,,Airpods Pro,Applinces,3.0,3772,lahor,,Delivered,11316.0
+1077.0,ayesha malik,ayesha.malik@hotmail.com,11-01-2024,Washing Machine,Applinces,3.0,abc,Lahore,cash ,Delivered,
+1078.0,Fatima Raza,fatima.raza@hotmail.com,08-27-2024,iPhone 14 Pro,,1.0,abc,Multan,,pendng,
+1079.0, hassan khan ,.hassan.khan.@hotmail.com,02/02/2023,Bluet00th Speker,Applinces,3.0,0,Multan,,pendng,0.0
+1080.0,Fatima Sheikh,fatima.sheikh@yahoo.com,01-03-2024,HP Laptop,,-1.0,39406,Faisalabad,cash ,Delivered,-39406.0
+1081.0,Ali Qureshi,ali.qureshi,,Smart Watch,Applinces,1.0,abc,karacchi,cash ,Cancelled,
+1082.0,Fatima Mirza,fatima.mirza@yahoo.com,12/08/2023,Smart Watch,Accessories,,99295,Lahore,Cash,delievered,
+1083.0,Usman Qureshi,usman.qureshi@hotmail.com,12/08/2023,Airpods Pro,Electronics,4.0,abc,Multan,Card,delievered,
+1084.0, Hassan Malik ,.hassan.malik.@gmial.com,11/07/2023,HP Laptop,Accessories,3.0,19282,Lahore,CARD,Delivered,57846.0
+,BILAL KHAN,bilal.khan@gmial.com,02-28-2024,HP Lpt0p,Electronics,-1.0,abc,Sargodha,Card,pendng,
+1086.0,Hassan Sheikh,hassan.sheikh@gmailcom,,Airpods Pro,Appliances,1.0,abc,Islamabad,cash ,Delivered,
+1087.0,Fatima Qureshi,fatima.qureshi@gmail.com,,Airpods Pro,Appliances,-1.0,abc,Lahore,,pendng,
+1088.0,ali mirza,ali.mirza@yahoo.com,2024-07-17,MacBook Air,,2.0,45804,Faisalabad,CARD,Delivered,91608.0
+,Kashif Mirza,kashif.mirza@gmial.com,2023-04-19,Microwave,Applinces,-1.0,0,Karachi,,pendng,0.0
+1090.0,Kashif Mirza,kashif.mirza@gmail.com,2024-06-13,iPhone 14 Pro,Accessories,-1.0,0,,Card,Delivered,0.0
+,Bilal Zafar,bilal.zafar@gmial.com,06-26-2023,Airpods Pro,Accessories,,0,Islamabad,Card,,
+1092.0,sara khan,sara.khan@gmial.com,23/08/2023,McB00k Air,Electronics,-1.0,abc,Sargodha,,Pending,
+,hina malik,hina.malik@gmial.com,2023-07-20,MacBook Air,,1.0,0,Sargodha,Cash,Cancelled,0.0
+, Sara Butt ,.sara.butt.@gmailcom,2023-05-11,HP Laptop,Appliances,1.0,132947,lahor,Bank Transfer,Delivered,132947.0
+1095.0,hassan qureshi,hassan.qureshi@hotmail.com,01/09/2024,Washing Machine,Accessories,,0,islmabad,Card,Pending,
+1096.0, Ali Raza ,.ali.raza.@gmail.com,2024-01-23,MacBook Air,Applinces,2.0,abc,Sargodha,,pendng,
+1097.0,AHMED ZAFAR,ahmed.zafar@yahoo.com,,iPhone 14 Pro,Accessories,,abc,lahor,cash ,Delivered,
+1098.0, Fatima Qureshi ,.fatima.qureshi.@gmial.com,01-06-2024,iPhone 14 Pro,Accessories,-1.0,abc,lahor,cash ,Pending,
+,Hassan Zafar,hassan.zafar@gmial.com,01-09-2023,Smart Watch,eletronics,2.0,abc,Islamabad,cash ,Delivered,
+1100.0,hassan raza,hassan.raza@hotmail.com,07-22-2024,Smart TV,Electronics,,0,karacchi,CARD,,
+, Ahmed Zafar ,.ahmed.zafar.@yahoo.com,2024-12-29,Smart Watch,eletronics,3.0,0,Faisalabad,Card,Pending,0.0
+, Hassan Mirza ,.hassan.mirza.@hotmail.com,09/01/2024,HP Laptop,Appliances,,64146,Karachi,,Cancelled,
+,Hina Mirza,hina.mirza@hotmail.com,,Smart Watch,eletronics,-1.0,0,Multan,,,0.0
+1104.0,Fatima Sheikh,fatima.sheikh@gmial.com,,Bluetooth Speaker,Applinces,-1.0,abc,Sargodha,Bank Transfer,Pending,
+1105.0,SARA SHEIKH,sara.sheikh@gmail.com,09-25-2024,Micr0wve,Accessories,-1.0,abc,Faisalabad,CARD,delievered,
+1106.0, hassan mirza ,.hassan.mirza.@gmailcom,10/10/2023,HP Laptop,,5.0,70650,lahor,Cash,Cancelled,353250.0
+1107.0, Hassan Saeed ,.hassan.saeed.@yahoo.com,04-30-2023,Airpods Pro,Appliances,-1.0,abc,Sargodha,,delievered,
+1108.0,ahmed khan,ahmed.khan@gmailcom,31/12/2023,MacBook Air,Electronics,,abc,Karachi,CARD,Cancelled,
+1109.0, sara butt ,.sara.butt.@yahoo.com,,Smart TV,,4.0,abc,Sargodha,,Pending,
+,Ali Saeed,ali.saeed@yahoo.com,,Wshing Mchine,eletronics,,abc,Sargodha,Card,delievered,
+1111.0,Ahmed Chaudhry,ahmed.chaudhry@gmail.com,10-06-2024,MacBook Air,Applinces,1.0,abc,islmabad,,Delivered,
+1112.0,Ali Raza,ali.raza@yahoo.com,07-10-2023,Washing Machine,Appliances,-1.0,0,Multan,Card,pendng,0.0
+,Ahmed Butt,ahmed.butt@gmail.com,2023-06-18,HP Lpt0p,eletronics,-1.0,0,Islamabad,CARD,delievered,0.0
+1114.0,Ali Zafar,ali.zafar@gmailcom,19/12/2023,Airpods Pro,Accessories,2.0,39891,Islamabad,,,79782.0
+1115.0,fatima zafar,fatima.zafar@gmail.com,30/04/2024,Airpods Pro,Appliances,-1.0,0,Faisalabad,Cash,delievered,0.0
+1116.0,Ahmed Khan,ahmed.khan@gmial.com,,Samsung Galaxy S22,Appliances,-1.0,11112,Lahore,cash ,Delivered,-11112.0
+1117.0,bilal malik,bilal.malik@gmial.com,25/07/2024,Samsung Galaxy S22,eletronics,,0,Multan,cash ,delievered,
+1118.0, Ayesha Mirza ,.ayesha.mirza.@yahoo.com,10/08/2023,MacBook Air,,5.0,0,Multan,Bank Transfer,Pending,0.0
+1119.0,hina zafar,hina.zafar@yahoo.com,,iPhone 14 Pro,Applinces,3.0,0,Lahore,cash ,Pending,0.0
+,usman butt,usman.butt@hotmail.com,05-18-2024,Samsung Galaxy S22,Electronics,,83642,islmabad,Bank Transfer,Delivered,
+, hina sheikh ,.hina.sheikh.@gmailcom,2024-11-07,Microwave,,4.0,0,Faisalabad,cash ,Delivered,0.0
+1122.0,HASSAN MIRZA,hassan.mirza@yahoo.com,2024-11-06,Airp0ds Pr0,,3.0,0,Faisalabad,Bank Transfer,delievered,0.0
+1123.0, Ali Zafar ,.ali.zafar.@gmailcom,08-05-2023,Washing Machine,Accessories,2.0,126084,Islamabad,Cash,Cancelled,252168.0
+1124.0, Bilal Raza ,.bilal.raza.@gmailcom,2024-11-08,MacBook Air,Appliances,5.0,0,lahor,cash ,pendng,0.0
+,usman qureshi,usman.qureshi@gmail.com,,HP Lpt0p,Applinces,2.0,0,lahor,,Delivered,0.0
+1126.0,Ayesha Zafar,ayesha.zafar@gmailcom,03-06-2024,HP Laptop,Appliances,,81941,Karachi,CARD,Delivered,
+,BILAL SHEIKH,bilal.sheikh@gmial.com,06/07/2023,Smsung Glxy S22,Appliances,,abc,Lahore,Bank Transfer,delievered,
+1128.0,Hassan Chaudhry,hassan.chaudhry@hotmail.com,2024-12-29,iPh0ne 14 Pr0,Applinces,-1.0,abc,islmabad,,delievered,
+1129.0,Bilal Chaudhry,bilal.chaudhry@hotmail.com,,HP Laptop,Accessories,,abc,Faisalabad,Cash,Delivered,
+1130.0, FATIMA SHEIKH ,.fatima.sheikh.@gmial.com,,Smart Watch,eletronics,4.0,0,,,Cancelled,0.0
+1131.0,KASHIF QURESHI,kashif.qureshi@gmial.com,09/01/2023,Airpods Pro,Appliances,5.0,abc,Sargodha,cash ,Cancelled,
+1132.0,Ahmed Sheikh,ahmed.sheikh@gmial.com,08-06-2024,Smart Watch,Accessories,,114934,Multan,Bank Transfer,Cancelled,
+1133.0,Fatima Chaudhry,fatima.chaudhry@hotmail.com,10/02/2024,Smart Watch,,-1.0,abc,Sargodha,CARD,Cancelled,
+1134.0,Hassan Khan,hassan.khan@gmial.com,2023-08-18,Smart Watch,eletronics,,0,Sargodha,CARD,,
+, Hina Zafar ,.hina.zafar.@yahoo.com,,McB00k Air,Appliances,-1.0,abc,Faisalabad,Bank Transfer,pendng,
+1136.0,Fatima Chaudhry,fatima.chaudhry@hotmail.com,22/08/2024,McB00k Air,Electronics,-1.0,0,lahor,Bank Transfer,delievered,0.0
+1137.0, SARA ZAFAR ,.sara.zafar.@hotmail.com,28/04/2023,Washing Machine,eletronics,,103657,Faisalabad,CARD,Cancelled,
+,Usman Khan,usman.khan@gmail.com,16/09/2024,Samsung Galaxy S22,Accessories,-1.0,abc,Faisalabad,cash ,delievered,
+1139.0,ahmed malik,ahmed.malik@yahoo.com,07/07/2023,Bluetooth Speaker,,2.0,66184,Multan,cash ,Cancelled,132368.0
+1140.0,HASSAN QURESHI,hassan.qureshi@gmailcom,,Microwave,Electronics,,0,Islamabad,CARD,Cancelled,
+1141.0, kashif khan ,.kashif.khan.@gmailcom,2023-10-20,Washing Machine,Electronics,3.0,84502,Islamabad,Card,pendng,253506.0
+1142.0,ali raza,ali.raza@gmailcom,,Airpods Pro,Appliances,2.0,0,Islamabad,CARD,Pending,0.0
+1143.0,SARA KHAN,sara.khan@yahoo.com,11/01/2023,iPhone 14 Pro,Accessories,-1.0,116598,Karachi,,delievered,-116598.0
+1144.0,Ayesha Khan,ayesha.khan@gmailcom,12-22-2023,HP Laptop,Electronics,-1.0,98044,Lahore,Cash,Pending,-98044.0
+1145.0,Kashif Saeed,kashif.saeed@yahoo.com,08-10-2023,McB00k Air,Applinces,-1.0,0,Lahore,Cash,delievered,0.0
+, Sara Raza ,.sara.raza.@gmail.com,,Bluetooth Speaker,Accessories,-1.0,abc,karacchi,Bank Transfer,Cancelled,
+1147.0,Ahmed Zafar,ahmed.zafar@yahoo.com,,Airpods Pro,Appliances,-1.0,0,karacchi,,Pending,0.0
+1148.0, HINA MALIK ,.hina.malik.@gmial.com,,Bluetooth Speaker,Accessories,,39648,karacchi,Card,,
+1149.0, Usman Zafar ,.usman.zafar.@yahoo.com,2023-03-28,iPh0ne 14 Pr0,eletronics,5.0,0,Faisalabad,,pendng,0.0
+1150.0,Kashif Khan,kashif.khan@gmail.com,,Smart TV,,,abc,Karachi,CARD,pendng,
+,HASSAN SHEIKH,hassan.sheikh@gmail.com,26/06/2023,MacBook Air,eletronics,3.0,0,karacchi,Card,Pending,0.0
+1152.0, AYESHA CHAUDHRY ,.ayesha.chaudhry.@hotmail.com,,HP Laptop,,,142447,Sargodha,Bank Transfer,Cancelled,
+1153.0,usman khan,usman.khan@gmial.com,2023-12-05,Smart TV,Appliances,-1.0,0,Faisalabad,Cash,pendng,0.0
+1154.0,Fatima Mirza,fatima.mirza@yahoo.com,11/10/2024,MacBook Air,Applinces,-1.0,abc,Islamabad,cash ,delievered,
+1155.0, AYESHA RAZA ,.ayesha.raza.@gmailcom,02-13-2024,Micr0wve,Applinces,2.0,0,Islamabad,Card,pendng,0.0
+1156.0,ahmed malik,ahmed.malik@gmailcom,06-05-2023,Airpods Pro,,-1.0,abc,Sargodha,cash ,,
+, sara qureshi ,.sara.qureshi.,2024-01-22,Airpods Pro,Applinces,5.0,abc,Karachi,Card,Pending,
+,Ahmed Butt,ahmed.butt,10/08/2024,McB00k Air,,1.0,40803,Islamabad,Cash,Cancelled,40803.0
+,Hassan Saeed,hassan.saeed@hotmail.com,,Microwave,eletronics,3.0,0,Karachi,CARD,Cancelled,0.0
+1160.0,HINA SAEED,hina.saeed@yahoo.com,2024-11-20,iPhone 14 Pro,Appliances,,abc,islmabad,cash ,Pending,
+1161.0,Hina Sheikh,hina.sheikh@gmailcom,02-13-2024,Samsung Galaxy S22,,2.0,0,Islamabad,Cash,pendng,0.0
+1162.0, BILAL RAZA ,.bilal.raza.,06-17-2023,Microwave,Electronics,,0,,,Delivered,
+1163.0,Usman Zafar,usman.zafar@gmailcom,08-31-2024,Smart Watch,Electronics,,53209,islmabad,Cash,Delivered,
+1164.0,Bilal Qureshi,bilal.qureshi@yahoo.com,2023-03-05,Airpods Pro,,,89253,islmabad,cash ,Pending,
+1165.0,Ali Sheikh,ali.sheikh@yahoo.com,26/06/2024,Microwave,Accessories,,abc,,Card,,
+,KASHIF KHAN,kashif.khan@yahoo.com,22/03/2024,HP Laptop,Applinces,,0,Sargodha,Card,delievered,
+1167.0,AHMED SAEED,ahmed.saeed@gmial.com,17/02/2024,Bluetooth Speaker,Appliances,,80876,Lahore,Cash,Pending,
+1168.0,HINA RAZA,hina.raza@gmail.com,04/06/2024,Airpods Pro,eletronics,,0,karacchi,Bank Transfer,,
+,Ali Qureshi,ali.qureshi@gmailcom,,Airpods Pro,Appliances,,0,Karachi,,Cancelled,
+1170.0,ahmed zafar,ahmed.zafar@gmail.com,2024-05-30,Airpods Pro,eletronics,,0,Multan,Bank Transfer,,
+1171.0,Sara Khan,sara.khan@yahoo.com,01-21-2024,Bluetooth Speaker,Appliances,-1.0,25694,Faisalabad,cash ,Pending,-25694.0
+1172.0,Kashif Saeed,kashif.saeed@yahoo.com,08-17-2023,Bluetooth Speaker,Electronics,,79082,,CARD,Delivered,
+1173.0,hassan mirza,hassan.mirza@hotmail.com,,Wshing Mchine,Electronics,,abc,karacchi,Bank Transfer,pendng,
+1174.0,KASHIF ZAFAR,kashif.zafar@yahoo.com,05-31-2024,Samsung Galaxy S22,Appliances,-1.0,0,Faisalabad,Card,delievered,0.0
+, Kashif Saeed ,.kashif.saeed.@gmailcom,2024-08-21,Smart TV,Electronics,5.0,abc,Lahore,Bank Transfer,Pending,
+1176.0, ali raza ,.ali.raza.@gmailcom,2024-09-08,iPhone 14 Pro,Appliances,,abc,islmabad,Cash,Pending,
+1177.0, Hina Saeed ,.hina.saeed.@gmail.com,09/11/2023,Smart Watch,eletronics,,0,Faisalabad,cash ,Pending,
+1178.0,Sara Mirza,sara.mirza,02-17-2023,Bluetooth Speaker,eletronics,,0,Sargodha,Cash,Cancelled,
+1179.0,Hassan Malik,hassan.malik@yahoo.com,07-08-2024,Bluetooth Speaker,Electronics,-1.0,0,Karachi,CARD,delievered,0.0
+1180.0, bilal khan ,.bilal.khan.@hotmail.com,2023-05-06,HP Laptop,Accessories,-1.0,0,,Cash,delievered,0.0
+1181.0,Hassan Sheikh,hassan.sheikh@gmailcom,19/01/2024,Smart TV,eletronics,2.0,abc,Faisalabad,CARD,pendng,
+1182.0, USMAN RAZA ,.usman.raza.@yahoo.com,01-09-2023,HP Laptop,,-1.0,abc,karacchi,Bank Transfer,delievered,
+1183.0,hassan saeed,hassan.saeed@yahoo.com,01/12/2023,Samsung Galaxy S22,Appliances,5.0,82930,karacchi,Cash,Pending,414650.0
+1184.0,AYESHA SHEIKH,ayesha.sheikh@gmial.com,,MacBook Air,Electronics,,124810,Islamabad,,delievered,
+1185.0,Sara Qureshi,sara.qureshi@gmial.com,09-24-2024,Microwave,,,86124,Islamabad,CARD,,
+1186.0, sara sheikh ,.sara.sheikh.@gmail.com,,Airpods Pro,eletronics,1.0,89077,islmabad,,Delivered,89077.0
+1187.0,HASSAN ZAFAR,hassan.zafar@gmailcom,10/01/2024,Airpods Pro,Accessories,,78541,karacchi,Cash,Cancelled,
+, Hassan Zafar ,.hassan.zafar.@gmial.com,08/12/2023,Washing Machine,Electronics,2.0,0,Sargodha,cash ,Delivered,0.0
+1189.0,Fatima Butt,fatima.butt@gmial.com,2024-03-13,Microwave,Applinces,,abc,Islamabad,cash ,pendng,
+1190.0, fatima khan ,.fatima.khan.@gmail.com,,Smart TV,,-1.0,abc,islmabad,Cash,Delivered,
+, kashif malik ,.kashif.malik.@hotmail.com,2024-05-23,Washing Machine,eletronics,,0,Karachi,Bank Transfer,Pending,
+1192.0,Bilal Raza,bilal.raza@gmailcom,03-16-2024,Airp0ds Pr0,Applinces,,0,Lahore,Cash,Delivered,
+, KASHIF SAEED ,.kashif.saeed.@yahoo.com,12-01-2024,McB00k Air,Electronics,,0,islmabad,Bank Transfer,Cancelled,
+1194.0,hassan qureshi,hassan.qureshi@hotmail.com,,Smart Watch,Appliances,-1.0,abc,,Bank Transfer,pendng,
+1195.0, Hina Malik ,.hina.malik.@yahoo.com,,Microwave,,1.0,0,islmabad,Card,,0.0
+,Usman Malik,usman.malik@gmial.com,09-26-2023,Samsung Galaxy S22,Appliances,-1.0,0,lahor,CARD,Delivered,0.0
+1197.0, Sara Butt ,.sara.butt.@gmial.com,2024-03-20,Samsung Galaxy S22,Applinces,,abc,Faisalabad,CARD,Delivered,
+1198.0, Kashif Zafar ,.kashif.zafar.@gmail.com,2024-08-13,Airpods Pro,Applinces,-1.0,55454,Faisalabad,Cash,,-55454.0
+, Ayesha Saeed ,.ayesha.saeed.@gmailcom,01-13-2023,HP Lpt0p,eletronics,,32860,,Card,pendng,
